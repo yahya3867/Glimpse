@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout:*)",
+      "Bash(ping:*)",
+      "Bash(nul)",
+      "Bash(powershell -Command \"(Get-Item ''C:\\Users\\ymasr\\OneDrive\\Desktop\\glimpse\\public\\banner.png'').Length / 1MB\")",
+      "Bash(dir:*)",
+      "Bash(del \"C:\\Users\\ymasr\\OneDrive\\Desktop\\glimpse\\public\\icon.png\")",
+      "Bash(powershell -Command \"(Get-Item ''C:\\Users\\ymasr\\OneDrive\\Desktop\\glimpse\\public\\logo.png'').Length / 1MB\")",
+      "Bash(taskkill /F /PID 10396)",
+      "Bash(powershell -Command \"Stop-Process -Id 10396 -Force\")",
+      "WebFetch(domain:localhost)",
+      "Bash(npm uninstall:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
