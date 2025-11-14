@@ -53,10 +53,10 @@ export function UseCases() {
         <ScrollReveal>
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-5xl 3xl:text-6xl font-display font-bold mb-4">
-              Built for modern <span className="italic">startups</span>
+              Built for the modern <span className="italic">era</span>
             </h2>
             <p className="text-lg 3xl:text-xl text-muted-foreground max-w-2xl 3xl:max-w-3xl mx-auto">
-              Whether you're building for developers, businesses, or end users
+              Whether you're a startup, business, or developer
             </p>
           </div>
         </ScrollReveal>

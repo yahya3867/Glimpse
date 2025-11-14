@@ -9,7 +9,7 @@ const faqs = [
   {
     question: "How long does it take to generate a video?",
     answer:
-      "Most videos are generated within 8-10 minutes. The AI analyzes your product description, creates a storyboard, and renders the final cinematic video automatically.",
+      "Most videos are generated within 10 minutes. The AI analyzes your product description, creates a storyboard, and renders the final cinematic video automatically.",
   },
   {
     question: "What input do I need to provide?",

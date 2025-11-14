@@ -5,13 +5,13 @@ import { CountUp } from "@/components/count-up";
 
 const stats = [
   {
-    value: 10,
+    value: 12,
     suffix: "s",
     label: "Video Duration",
     description: "Perfect length for attention spans",
   },
   {
-    value: 3,
+    value: 10,
     suffix: " min",
     label: "Generation Time",
     description: "From idea to ready-to-ship video",
