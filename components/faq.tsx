@@ -9,7 +9,7 @@ const faqs = [
   {
     question: "How long does it take to generate a video?",
     answer:
-      "Most videos are generated within 2-3 minutes. The AI analyzes your product description, creates a storyboard, and renders the final cinematic video automatically.",
+      "Most videos are generated within 8-10 minutes. The AI analyzes your product description, creates a storyboard, and renders the final cinematic video automatically.",
   },
   {
     question: "What input do I need to provide?",
@@ -17,14 +17,9 @@ const faqs = [
       "Simply provide a brief description of your product or feature. Our AI takes care of the rest, transforming your text into a compelling visual story.",
   },
   {
-    question: "Can I customize the video style?",
-    answer:
-      "Yes! You can choose from various visual styles, adjust pacing, select music, and customize colors to match your brand identity.",
-  },
-  {
     question: "What video formats do you support?",
     answer:
-      "We export videos in multiple formats including MP4, WebM, and GIF. Videos are optimized for different platforms like social media, landing pages, and presentations.",
+      "We export videos in MP4 format, optimized for all platforms such as social media, landing pages, and presentations.",
   },
   {
     question: "Do I need video editing skills?",
