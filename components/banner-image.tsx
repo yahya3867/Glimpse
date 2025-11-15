@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export function BannerImage() {
   return (
-    <section className="relative w-full overflow-hidden bg-[#0a0a0a]">
+    <section className="relative w-full overflow-hidden bg-[#0a0a0a] pt-24">
       <div className="relative w-full">
         {/* Banner image - full width */}
         {/* Image dimensions: 5314 x 2382 */}

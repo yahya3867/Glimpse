@@ -44,7 +44,7 @@ export function CtaBanner() {
   return (
     <section
       id="access"
-      className="relative w-full py-24 md:py-32 px-2 md:px-4 overflow-hidden"
+      className="relative w-full py-24 px-2 md:px-4 overflow-hidden"
     >
       <GlowBackground intensity="strong" position="center" />
 
