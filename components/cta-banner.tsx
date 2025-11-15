@@ -84,7 +84,7 @@ export function CtaBanner() {
                   transition={{ duration: 0.6, delay: 1 }}
                 >
                   Join the waitlist to be among the first to transform your
-                  product story into cinematic 10-second videos.
+                  product story into cinematic 12-second videos.
                 </motion.p>
               </div>
 

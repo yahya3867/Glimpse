@@ -21,7 +21,7 @@ const steps = [
     icon: Video,
     title: "You get a ready-to-ship video",
     description:
-      "A sharp 10-second video optimized for landing pages, social media, and pitch decks.",
+      "A sharp 12-second video optimized for landing pages, social media, and pitch decks.",
   },
 ];
 

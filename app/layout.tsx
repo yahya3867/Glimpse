@@ -18,9 +18,9 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Glimpse - 10-second videos that show what your product actually does",
+  title: "Glimpse - 12-second videos that show what your product actually does",
   description:
-    "Turn your startup's core feature into a sharp 10-second video for landing pages, socials, or demo day decks. AI-powered, cinematic, and instantly clear.",
+    "Turn your startup's core feature into a sharp 12-second video for landing pages, socials, or demo day decks. AI-powered, cinematic, and instantly clear.",
   keywords: [
     "product videos",
     "startup marketing",

@@ -2,7 +2,7 @@
 
 import { ScrollReveal } from "@/components/scroll-reveal";
 import { Badge } from "@/components/ui/badge";
-import { Sparkles, Rocket, Target } from "lucide-react";
+import { Sparkles, Rocket, Target, CheckCircle2 } from "lucide-react";
 import { Parallax } from "@/components/parallax";
 import { motion } from "framer-motion";
 
@@ -12,7 +12,7 @@ const useCases = [
     tag: "Landing Pages",
     title: "Make your homepage unforgettable",
     description:
-      "Replace long paragraphs with a 10-second video that instantly shows what your product does.",
+      "Replace long paragraphs with a 12-second video that instantly shows what your product does.",
     example: '"Project management tool that auto-prioritizes tasks"',
   },
   {
@@ -30,6 +30,25 @@ const useCases = [
     description:
       "Describe your product in one line and get a polished video. No editing skills, no back-and-forth.",
     example: '"Scheduling app that eliminates timezone confusion"',
+  },
+];
+
+const keyApplications = [
+  {
+    title: "Product Demos",
+    description: "Create engaging product demonstrations that capture attention and drive conversions.",
+  },
+  {
+    title: "Sales Presentations",
+    description: "Enhance your pitch decks with professional video content that makes your product memorable.",
+  },
+  {
+    title: "Social Media Content",
+    description: "Generate scroll-stopping videos optimized for Instagram, Twitter, LinkedIn, and TikTok.",
+  },
+  {
+    title: "Email Campaigns",
+    description: "Boost email engagement by embedding eye-catching product videos that explain your value proposition.",
   },
 ];
 
@@ -56,12 +75,12 @@ export function UseCases() {
               Built for the modern <span className="italic">era</span>
             </h2>
             <p className="text-lg 3xl:text-xl text-muted-foreground max-w-2xl 3xl:max-w-3xl mx-auto">
-              Whether you're a startup, business, or developer
+              Whether you're a startup, business, or developer - versatile video solutions for every stage of your customer journey
             </p>
           </div>
         </ScrollReveal>
 
-        <div className="grid md:grid-cols-3 gap-6">
+        <div className="grid md:grid-cols-3 gap-6 mb-12">
           {useCases.map((useCase, index) => (
             <ScrollReveal key={useCase.title} delay={index * 100}>
               <motion.div
@@ -104,6 +123,35 @@ export function UseCases() {
             </ScrollReveal>
           ))}
         </div>
+
+        {/* Key Applications */}
+        <ScrollReveal delay={300}>
+          <div className="mt-16">
+            <h3 className="text-2xl md:text-3xl font-display font-semibold text-center mb-8">
+              Perfect for every scenario
+            </h3>
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+              {keyApplications.map((app, index) => (
+                <ScrollReveal key={app.title} delay={index * 75}>
+                  <motion.div
+                    className="bg-card/30 backdrop-blur-sm border border-border/30 rounded-xl p-5 h-full hover:border-border/50 transition-all duration-200"
+                    whileHover={{ y: -3 }}
+                  >
+                    <div className="flex items-start gap-2">
+                      <CheckCircle2 className="h-5 w-5 text-primary mt-0.5 flex-shrink-0" />
+                      <div>
+                        <h4 className="font-semibold mb-1.5">{app.title}</h4>
+                        <p className="text-sm text-muted-foreground leading-relaxed">
+                          {app.description}
+                        </p>
+                      </div>
+                    </div>
+                  </motion.div>
+                </ScrollReveal>
+              ))}
+            </div>
+          </div>
+        </ScrollReveal>
       </div>
     </section>
   );

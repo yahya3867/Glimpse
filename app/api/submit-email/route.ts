@@ -53,7 +53,7 @@ export async function POST(request: NextRequest) {
 
                 <div class="content">
                   <p style="font-size: 16px; margin-bottom: 20px;">
-                    Great news! A new user has requested early access to Glimpse. They're excited to transform their product into cinematic 10-second stories.
+                    Great news! A new user has requested early access to Glimpse. They're excited to transform their product into cinematic 12-second stories.
                   </p>
 
                   <div class="info-box">
