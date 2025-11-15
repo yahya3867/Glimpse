@@ -48,7 +48,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl 3xl:text-3xl text-muted-foreground max-w-2xl 3xl:max-w-4xl mx-auto leading-relaxed"
           >
-            Turn your product into a 10-second story. Sharp, cinematic videos that show what your product does — perfect for landing pages, socials, and pitch decks.
+            Turn your product into a 12-second story. Sharp, cinematic videos that show what your product does — perfect for landing pages, socials, and pitch decks.
           </motion.p>
 
           <motion.div

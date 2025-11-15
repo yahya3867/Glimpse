@@ -31,7 +31,7 @@ const tiers = [
     features: [
       "40 video generations per month",
       "Up to 1080p resolution",
-      "Max 10-second clips",
+      "Max 12-second clips",
       "No watermark",
       "Priority support",
     ],

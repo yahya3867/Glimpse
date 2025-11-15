@@ -1,10 +1,10 @@
 # Glimpse
 
-A production-ready marketing site for Glimpse - 10-second videos that show what your product actually does.
+A production-ready marketing site for Glimpse - 12-second videos that show what your product actually does.
 
 ## About Glimpse
 
-Glimpse turns a startup's core feature into a sharp 10-second video founders can drop on their landing page, socials, or demo day deck. Founders describe their product in one line; Glimpse's AI maps it to a visual metaphor, generates a prompt, and outputs a cinematic micro-spot that makes the value instantly clear.
+Glimpse turns a startup's core feature into a sharp 12-second video founders can drop on their landing page, socials, or demo day deck. Founders describe their product in one line; Glimpse's AI maps it to a visual metaphor, generates a prompt, and outputs a cinematic micro-spot that makes the value instantly clear.
 
 ## Tech Stack
 
