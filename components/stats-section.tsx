@@ -39,11 +39,10 @@ export function StatsSection() {
         <ScrollReveal>
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-5xl 3xl:text-6xl font-display font-bold mb-4">
-              Built for <span className="italic">speed</span> and{" "}
-              <span className="italic">quality</span>
+              <span className="text-primary">Powerfully Fast</span>. <span className="text-primary">Effortlessly High-Quality</span>
             </h2>
             <p className="text-lg 3xl:text-xl text-muted-foreground max-w-2xl 3xl:max-w-3xl mx-auto">
-              Fast, cinematic, and effortless video creation
+              Turn imagination into cinematic reality — instantly.
             </p>
           </div>
         </ScrollReveal>
