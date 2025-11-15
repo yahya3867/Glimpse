@@ -11,7 +11,7 @@ export function BannerImage() {
         {/* Image dimensions: 5314 x 2382 */}
         <div className="relative w-full" style={{ aspectRatio: '5314/2382', minHeight: '550px' }}>
           <Image
-            src="/newBanner.jpeg"
+            src="/newBanner3.png"
             alt="Glimpse Banner"
             fill
             className="object-contain object-center bg-black"
