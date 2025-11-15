@@ -14,7 +14,7 @@ export function BannerImage() {
             src="/newBanner3.png"
             alt="Glimpse Banner"
             fill
-            className="object-contain object-center bg-black"
+            className="object-contain object-center bg-[#0a0a0a]"
             loading="lazy"
             quality={75}
             sizes="100vw"
