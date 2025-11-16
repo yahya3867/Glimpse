@@ -1,0 +1,99 @@
+Create a 12-second, 16:9 cinematic product video for an AI legal operations platform called "Relaw." The tone is confident, precise, premium, and quietly powerful. The mood moves clearly from chaos to control, from overwhelm to surgical focus. Visual style should feel like an Apple-style product spot meets modern law firm photography: minimal, tech-forward but not sci-fi, with tactile paper and sleek, subtle UI accents. Color palette: base of crisp whites and soft warm neutrals (desk, paper, skin tones), accented with deep navy/charcoal for legal seriousness, and a single signature Relaw color, an electric teal, used as an intelligent, subtle glow and for key accents.
+
+=== GLOBAL VISUAL AND AUDIO DIRECTION ===
+- Aspect ratio: 16:9, landscape.
+- Environment: modern, premium law office. A high-end light wood or stone desk; in the soft-focus background, shelves with law books and a hint of city skyline through a large window. Overall, the background is blurred to keep attention on the desk.
+- Lighting: soft, directional daylight from the left side, trustworthy and natural. Gentle shadows, no harsh contrast. As Relaw's AI activity begins, subtle electric teal glows appear around key elements, like a quiet, intelligent light guiding the movement.
+- Camera: start with an overhead top-down shot of the desk; fast slightly anxious push-in in the chaotic phase; transition to smooth, gliding, controlled camera moves as the AI takes over, with subtle parallax for a premium cinematic feel. End with a composed hero 3/4 shot.
+- Composition: strong center-weighted compositions for the overhead chaos shot for clarity; then rule-of-thirds hero framing with clean negative space for text overlays, logo, and value messaging.
+- Pacing: 3-second hook of chaos, 5-second visual demo of automated self-organization, 4-second hero close with clear value and branding.
+- Narrator voice: one single voiceover throughout, mid-40s, gender-neutral, professional and calm with a confident, precise, premium tone. No hype, no cheesy inflection; controlled, poised, and trustworthy.
+- Background music: subtle, modern, minimal electronic score with a steady, gentle pulse (not distracting, no vocals). Start slightly tense and sparse in the chaos, then shift to warmer, more resolved chords and smoother rhythm once the AI activates. Keep volume under the narration.
+- Sound design: soft, tasteful foley. Quiet page rustles at the beginning, a subtle whoosh or hum when the Relaw pulse appears and documents move, faint typing-like ticks as text auto-fills, a soft digital chime when the final document is marked "Ready to Send," and a gentle, satisfying whoosh as the logo appears. All sound effects should be subtle and premium, not cartoonish.
+
+=== DETAILED TIMELINE WITH VISUALS, CAMERA, AND AUDIO ===
+
+[0.0 - 1.5 seconds] HOOK: OVERWHELMING LEGAL CHAOS
+- VISUAL: Start with an overhead top-down wide shot of a premium lawyer’s desk. The desk surface is light wood or matte stone. It is absolutely covered with legal clutter: thick case files, manila folders spilling papers, yellow legal pads with messy handwriting, printed emails, redlined contract pages, and multiple sticky notes. Some sticky notes are clearly legible: one reads "CALL CLIENT," another "DRAFT AGREEMENT," another "FOLLOW-UP," and another "BILLING?" A closed slim metal laptop is partially buried beneath a stack of papers near the top of the frame.
+- The first frame feels frozen for half a second, then micro-motions like a corner of a sticky note fluttering or a page edge shifting, giving a sense of barely-contained chaos.
+- CAMERA: Overhead top-down, center-weighted composition. Begin a quick, slightly anxious push-in toward the center of the clutter, with a very subtle handheld micro-shake to create a sense of stress and tension.
+- LIGHTING: Soft, directional daylight from the left side of frame. Shadows are gentle but defined enough to show depth. No teal glow yet.
+- TEXT OVERLAY: At about 0.5 seconds, the overlay text appears in the lower center: "Still doing all THIS manually?" in bold, modern sans-serif white font with a subtle deep navy shadow for legibility.
+- NARRATION (voiceover):
+  - 0.0-2.0s: Narrator, calm but empathetic: "Still buried under intake forms, draft edits, and messy notes?"
+- SOUND EFFECTS: Very soft ambient office room tone. Quiet paper rustles, a faint distant phone ring in the background (not distracting, slightly muffled). No strong SFX yet.
+- MUSIC: A minimal, slightly tense electronic pad begins, a single low note or chord, with a faint ticking hi-hat or pulse to convey pressure but kept low in the mix.
+
+[1.5 - 3.0 seconds] PEAK TENSION ON CHAOS
+- VISUAL: The push-in completes: now we’re at a tighter top-down shot where the mess fills almost the entire frame. Sticky notes and documents overlap heavily. The overlay text "Still doing all THIS manually?" remains for a brief beat, then begins to fade out around 2.5 seconds.
+- CAMERA: The push-in decelerates and the micro-shake reduces, holding on peak clutter.
+- LIGHTING: Same soft daylight, perhaps slightly more contrast on paper edges as the camera nears.
+- NARRATION: Continues the same line; no new dialogue.
+- SOUND: Slightly more audible page rustle as if the pile might slide off. Music holds tension.
+
+[3.0 - 5.0 seconds] TRANSITION: RELAW AI ACTIVATES, DESK SELF-ORGANIZES
+- VISUAL: At exactly 3.0 seconds, a subtle electric teal pulse of light appears to emanate from under the stack of papers covering the laptop. The laptop lid quietly cracks open by about an inch. This teal pulse radiates outward in a gentle wave across the desk surface.
+- As the teal pulse passes, papers begin to move on their own. Individual documents lift slightly off the desk and then glide in straight, precise lines. Folders slide and rotate into alignment. The overhead top-down shot gracefully tilts into a 3/4 angled shot, revealing depth: we see the tabletop receding, and a hint of the blurred office background.
+- Four areas on the desk become clear as documents segue into them: one in each quadrant. Minimal, elegant UI-style labels appear as floating tabs or title cards above each area: "Intake," "Drafting," "Notes," and "Docs." The labels are white with a thin navy outline and tiny electric teal accent line.
+- The chaotic clutter shrinks and re-forms into neat stacks or card-like piles under each label.
+- CAMERA: Smooth transition from overhead down to a slightly angled medium shot with a controlled arc move, introducing subtle parallax as objects move. The camera motion becomes extremely stable and fluid, contrasting the earlier jitter.
+- LIGHTING: Soft daylight persists, but as the teal pulse moves, a gentle teal highlight edges the moving documents, hinting at AI activity.
+- NARRATION:
+  - 2.0-5.0s: Narrator, now more assured: "Relaw turns that chaos into a self-organizing legal workspace."
+- SOUND EFFECTS: At 3.0 seconds, a soft, sophisticated digital hum or whoosh accompanies the teal pulse. As documents move, add barely audible whooshes and faint ticking or subtle typing-like sounds as if invisible automation is working. The motions feel gentle, not aggressive.
+- MUSIC: The tension eases slightly. The underlying pad opens up into a warmer chord, and a soft, steady electronic beat or pulse enters, synchronized with the glide of documents.
+
+[5.0 - 6.5 seconds] MACRO DEMO: INTAKE, DRAFTING, NOTES, DOCS
+- VISUAL: Cut into a series of fast but readable macro close-ups that showcase specific automated tasks. The overall color and lighting remain consistent.
+  - Shot A (Intake, ~5.0-5.4s): Extreme close-up of an intake form on a laptop screen or a tablet lying on the desk. Fields labeled "Client Name," "Matter," "Deadline" auto-fill smoothly, one field at a time, with crisp text. A small teal cursor guides the movement.
+  - Shot B (Drafting, ~5.4-5.8s): Close-up of a contract document. A clause appears line by line, typeset cleanly. One key phrase is slightly bolded. At the bottom corner, tiny, tasteful microtext: "Powered by Relaw."
+  - Shot C (Notes, ~5.8-6.2s): Close-up of a sheet of handwritten meeting notes in pen, messy and dense. It morphs or crossfades into a neat digital bullet-point summary on a clean white panel labeled "Meeting Notes," with teal bullet points.
+  - Shot D (Docs, ~6.2-6.5s): Close-up of a final document page. In the lower-right corner, a subtle badge animates in with a soft stamping motion: "Ready to Send" in small, confident type, with a tiny teal checkmark.
+- CAMERA: Small, elegant lateral slides or micro push-ins for each macro shot. Cuts are quick but smooth; no jarring movements. Each micro shot lasts just enough to be legible.
+- LIGHTING: Bright enough for text clarity, but soft. Teal highlights appear near cursor movement and the "Ready to Send" badge.
+- NARRATION:
+  - 5.0-8.5s: Narrator, clearly articulating: "Intake, drafting, notes, and documents... handled automatically every week."
+- SOUND EFFECTS: Soft, high-quality typing beeps or taps for text auto-filling, a quiet transform whoosh for the handwritten notes morphing into summary, and a gentle, satisfying digital chime when the "Ready to Send" badge appears.
+- MUSIC: Continues the warm, modern electronic bed, slightly lifting in energy as capabilities are revealed.
+
+[6.5 - 8.0 seconds] ORGANIZED DESK HERO SHOT
+- VISUAL: Cut back to a medium, slightly angled hero shot of the entire desk, now completely organized. Clutter is gone. There are four tidy stacks of documents or minimal UI-like card tiles on the desk, each directly under a label hovering above the desk surface: "Intake," "Drafting," "Notes," and "Docs." Each labeled stack has a small teal checkmark icon and a clean, composed appearance.
+- The laptop is now fully visible at the upper center of the desk, its screen showing a  simple, clean Relaw dashboard with four columns or cards matching these categories, all indicating tasks in progress or complete.
+- On-screen mid-roll text overlay fades in at the lower third: "Relaw handles intake, drafting, notes, and docs. Automatically."
+- CAMERA: Smooth, slight pull-back and upward rise, then hold steady. Composition uses rule-of-thirds, leaving negative space in the lower third for the text.
+- LIGHTING: Soft daylight highlights each stack. A faint teal line of light threads through the four labeled areas, suggesting a connected workflow.
+- NARRATION: Same line from 5.0-8.5 seconds continues.
+- SOUND EFFECTS: Soft ambient office tone. A very subtle low whoosh as the text overlay appears.
+- MUSIC: Continues, calmly propulsive.
+
+[8.0 - 10.0 seconds] RESULT: CALM ATTORNEY, CLEAN WORKSPACE
+- VISUAL: The camera pulls back slightly more and tilts up a bit to reveal the attorney sitting behind the desk. The attorney is a silhouette or softly out-of-focus figure in a well-fitted dark navy suit, giving a premium, serious legal vibe. They lean back slightly in a comfortable chair, one hand gently resting near the laptop trackpad, the other hand holding a simple, elegant coffee mug. They look relaxed, with shoulders down and posture open.
+- The desk in front of them remains pristine: four clearly organized stacks or tiles, labels visible but not dominating. The Relaw dashboard on the laptop is clean and minimalist, with cards labeled "Intake," "Drafting," "Notes," and "Docs" all marked with checkmarks or progress bars grouped neatly.
+- CAMERA: Settle into a hero 3/4 shot, framing the desk in the foreground and the attorney mid-background. Use rule-of-thirds, with the laptop slightly off-center and empty negative space on one side for final copy.
+- LIGHTING: Soft daylight from the left, a very gentle backlight from the right to separate the attorney from the background. A subtle teal glow on the laptop screen and a thin flowing teal line connecting the four categories on the desk to the screen, symbolizing automation.
+- NARRATION:
+  - 8.5-12.0s: Narrator, delivering the payoff confidently: "So you save 10-plus hours, and focus on the work only you can do — with Relaw."
+- TEXT: At around 8.5-9.0 seconds, the headline text begins to fade in in the lower center: "Save 10+ hours every week." Big, bold, white sans-serif type.
+- SOUND EFFECTS: Very soft chair creak as the attorney leans back, a faint exhale, and a subtle clink as the coffee mug touches the desk.
+- MUSIC: Reaches its warmest, most resolved chord here, still understated.
+
+[10.0 - 12.0 seconds] BRAND LOCK-IN: LOGO, TAGLINE, VALUE
+- VISUAL: Hold on the hero composition, but slightly darken the background and subtly increase focus on the desk and text. The headline "Save 10+ hours every week." is now fully visible. Below it, smaller supporting text fades in: "Relaw – AI legal ops for modern teams." Then, in the final second, the Relaw logo appears either at bottom center or bottom right, accompanied by the tagline: "Relaw | Let the work do itself." Both are clean and minimal.
+- A neat electric teal line of light flows in a loop: it starts at the "Intake" label, travels gracefully to "Drafting," then to "Notes," then to "Docs," and finally arcs down to underline or encircle the Relaw logo, where it gently settles and glows.
+- CAMERA: Mostly static, with a very slow, almost imperceptible micro push-in to emphasize the logo and text.
+- LIGHTING: The overall image subtly vignettes around the edges, focusing the viewer’s attention on the center-lower third where the logo and text reside. The teal glow of the logo and connecting line is brightest here, but still refined.
+- TEXT ON SCREEN at end:
+  - Large: "Save 10+ hours every week."
+  - Smaller below: "Relaw – AI legal ops for modern teams."
+  - Logo + tagline: "Relaw | Let the work do itself."
+- NARRATION: Finishes the line: "...with Relaw." timed to land as the logo fully appears around 10.8-11.2 seconds.
+- SOUND EFFECTS: A soft, premium digital whoosh as the logo and closing text appear, followed by a gentle, high-pitched chime that is very brief and subtle.
+- MUSIC: Resolve the main musical phrase at 11.5 seconds, then let it decay naturally with a soft tail up to 12.0 seconds.
+
+=== NARRATION SCRIPT SUMMARY WITH TIMESTAMPS ===
+- 0.0-2.0s: Narrator says, clearly and calmly: "Still buried under intake forms, draft edits, and messy notes?"
+- 2.0-5.0s: Narrator continues, more assured: "Relaw turns that chaos into a self-organizing legal workspace."
+- 5.0-8.5s: Narrator explains capabilities: "Intake, drafting, notes, and documents... handled automatically every week."
+- 8.5-12.0s: Narrator delivers payoff and brand: "So you save 10-plus hours, and focus on the work only you can do — with Relaw."
+
+Ensure that the voiceover, visuals, text overlays, sound effects, and music are tightly synchronized to this timeline, with a total runtime of exactly 12 seconds. The overall impression must immediately communicate to attorneys and legal teams that all the tedious desk work they see in the opening chaos could simply handle itself every week if they used Relaw.

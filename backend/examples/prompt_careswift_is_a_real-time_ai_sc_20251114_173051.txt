@@ -1,0 +1,110 @@
+Generate a 12-second, 16:9 cinematic product video for a healthtech SaaS called "CareSwift". The video should feel like a blend of modern medical drama and premium Apple/Stripe-style product design. The core idea: inside a moving ambulance at night, we see chaotic handwritten notes and fragmented documentation instantly reorganize into a clean, structured, insurance-ready report as a medic speaks, powered by CareSwift.
+
+Overall style, mood, and pacing:
+- Visual style: Cinematic, high-contrast, glossy, and minimal. Think Apple Health promo meets hospital drama intro. Clean UI, clear information hierarchy, refined micro-interactions.
+- Mood: High-stakes but controlled. Life-or-death seriousness with an "impossible made effortless" magic as chaos transforms into clarity. Clinical yet human-centered.
+- Color palette: Deep navy and charcoal for the ambulance and background, accented with ambulance reds and subtle medical greens. Electric teal/blue is the hero color for data streams, UI highlights, and CareSwift branding.
+- Lighting: Low-key, directional lighting. Red and blue ambulance light reflections flicker across surfaces and faces. Monitor and tablet glow provide cool, soft light. UI and final brand lockup are lit with clean, soft, cool-toned light to signify clarity and control.
+- Camera: Fluid, precise motion. A quick snap-zoom in the hook; then smooth dolly moves as chaos transforms into order; ending on a steady, locked-off hero shot to communicate trust and reliability.
+- Sound: Continuous subtle background music, urgent but controlled—modern cinematic electronic score with a steady, pulsing rhythm. Layer in realistic ambulance interior ambience. Include specific sound effects for notes and data transforming, UI clicks, and the "completion" moment.
+- Narrator voice style: Professional, calm, confident, mid-low register, American English, clear diction, serious but reassuring tone, like a premium medical tech brand commercial.
+
+NARRATION (word-for-word with timing):
+- 0.0-1.5s: Narrator (calm, serious, confident): "In an ambulance, every second is life or death."
+- 1.5-4.0s: Narrator: "Paperwork shouldn’t steal a single one."
+- 4.0-7.0s: Narrator: "CareSwift listens as medics work—turning chaotic notes and speech into structured, insurance-ready reports in real time."
+- 7.0-10.0s: Narrator: "So crews stay on the patient, not the paperwork."
+- 10.0-12.0s: Narrator: "CareSwift — real-time AI reports. Zero paperwork."
+
+Background music and sound design in detail:
+- Music from 0-12s: A subtle, cinematic electronic track at moderate tempo (around 100-110 BPM). Deep, soft synth bass pulses, light percussive ticks (no aggressive drums), and airy pads. Start slightly tense in the first 3 seconds, then gradually introduce warmer, brighter tones as the data clarifies and the report completes. Keep volume under narration but present enough to maintain urgency.
+- Ambulance ambience: Throughout 0-7s, include soft rumble of vehicle movement, occasional distant siren wail (muffled), faint clinking of equipment, and low-volume patient monitor beeps. Reduce siren intensity and road noise after 7s as we transition into the abstract, clean product space.
+- SFX specifics:
+  - 0-3s: Soft paper rustling and fluttering as note fragments float and swirl. Occasional pencil/pen scratch sounds. Low, tense whoosh with the snap-zoom.
+  - 3-7s: Smooth, digital whooshes as messy notes straighten and flow toward the tablet. Gentle, satisfying chime or click when data fields populate. Subtle, high-tech "data stream" hum as electric teal lines travel through the air.
+  - 6-8s: Crisp, precise UI typing/ticking sounds for each line that appears in the report. A small, soft confirmation chime when the "Insurance-ready" badge appears.
+  - 8-12s: UI SFX soften; a final, confident but gentle chime at 9-10s when the report switches from "Draft" to "Complete." After that, mostly clean with a faint ambient hum under the logo.
+
+DETAILED VISUAL AND CAMERA DIRECTION BY TIME:
+
+0.0-3.0s — HOOK: MEDIC UNDER PRESSURE, CHAOS FLOATING
+- Environment: Inside a real ambulance at night/dusk. Tight interior: wall cabinets, straps, medical equipment, and a patient on the gurney (only partially visible, no gore). The vehicle is moving.
+- 0.0-1.0s: Start on an extreme close-up of a medic’s eyes and upper face, filling most of the 16:9 frame. The medic is in navy blue uniform with reflective strips, light stubble or light sweat, intense gaze. Red and blue emergency light reflections ripple across their skin, creating a dynamic, high-stakes feel. Background is dark and defocused.
+- Camera: Very tight static framing for the first half-second, then at around 0.5s begin an aggressive, precise snap-zoom out to reveal more of the medic’s face and shoulders.
+- 1.0-3.0s: As the camera finishes snapping out to a tight medium close-up, we see around the medic’s head and shoulders a chaotic storm of translucent, handwritten notes and partial forms floating in mid-air, in front of and behind them. The pages are semi-transparent white/grey with black, slightly messy handwriting, circled vitals, arrows, and half-completed checkboxes. They drift, spin, and overlap, visually overwhelming the space.
+- Over-the-top of this visual, place a minimal white text overlay in the bottom-left corner: "Turn chaos into clean." in a thin, modern sans-serif font. The text should be sharp, with a very subtle electric-teal underline that animates in with a quick left-to-right line draw.
+- Lighting: Low-key with strong contrast. Red-blue flashes from ambulance lights, plus a soft blue glow from an unseen monitor hitting the medic’s cheek.
+- Sync with narration: As the narrator says, "In an ambulance, every second is life or death," the medic’s eyes flick to the patient off-screen, emphasizing urgency. As "Paperwork shouldn’t steal a single one" begins (~1.5s), subtly emphasize the density of floating notes by increasing their quantity or movement.
+
+3.0-6.0s — TRANSFORMATION BEGINS: SPEECH TO DATA STREAM
+- At about 3.0s, cut to an over-the-shoulder medium shot from behind and slightly above the medic’s right shoulder, looking toward the patient and the front of the ambulance. The camera is positioned so we see:
+  - Left foreground: back of the medic’s head and shoulder.
+  - Mid-ground: patient’s upper body on the gurney (covered with a blanket or clothing, no gore, just a hand, mask, or chest straps visible), medical equipment on the walls.
+  - Right side/background: a tablet mounted to the ambulance wall, currently showing a dim, placeholder interface or dark standby screen.
+- The medic is speaking briskly, clinically, while working on the patient (e.g., adjusting oxygen mask, checking pulse). Their mouth movement should roughly match the subtitled phrases.
+- Visualization of speech:
+  - As the medic talks, brief snippets of text appear in the air in front of them for less than a second each, in white sans-serif: "53-year-old male…", "chest pain…", "onset 10 minutes…", "BP 90 over 60…", "O2, ASA given…". These are not permanent subtitles—each phrase quickly dissolves.
+  - Each dissolving phrase morphs into a glowing electric-teal data stream: thin neon line, with tiny alphanumeric glyphs flowing along it. The streams emerge from the medic’s mouth area and chest zone and curve through the space.
+- Interaction with notes:
+  - The previously floating handwritten notes are still present, now primarily in the mid-ground. As the teal data streams touch them, the notes jolt into alignment, straighten, and snap together edge-to-edge, like magnetic tiles. Their paper texture gradually fades as they become crisp, digital tiles moving toward the mounted tablet.
+- Camera movement: Smooth, subtle dolly forward and slightly to the right, guiding the viewer’s eye from the medic and patient toward the tablet and the converging data stream.
+- Lighting: The tablet and the zone around it are slightly brighter with cool, soft light. Red/blue flashes continue but are less chaotic, hinting at the shift from chaos to control.
+- Sync with narration (4.0-7.0s line begins partway through this section): The words "CareSwift listens as medics work—turning chaotic notes and speech" overlap with the transformation of floating notes into digital tiles and teal data streams.
+
+6.0-8.0s — CORE DEMO: REAL-TIME REPORT BUILDING ON UI
+- Around 6.0s, complete the dolly movement with a cut or seamless move into a macro close-up of the tablet screen. The tablet now occupies most of the frame, angled slightly so we see depth but with the UI perfectly legible.
+- UI design:
+  - Background: deep charcoal/dark navy.
+  - Text: crisp white with high contrast.
+  - Section headers: slightly larger, bolder, with electric-teal underlines or accents: "Patient", "Chief Complaint", "Onset", "Vitals", "Interventions".
+  - Layout: stacked sections with ample whitespace, similar to high-end SaaS dashboards.
+- Animation:
+  - As the narrator says "turning chaotic notes and speech into structured, insurance-ready reports in real time," we see the report populate line by line:
+    - A field animates in: "Patient: M, 53" (types itself or fades in with a smooth left-to-right reveal).
+    - Next line appears: "Chief Complaint: Acute chest pain".
+    - Then: "Onset: 10 minutes pre-arrival".
+    - Then: "Vitals: BP 90/60, HR 110, SpO2 92%".
+    - Then: "Interventions: O2, ASA 325 mg, IV access".
+  - A subtle teal progress indicator at the top progresses from ~60% to 100% over this 2-second window.
+  - At about 7.5s, a small badge at the bottom right of the report appears with a soft pop: "Insurance-ready ✓" in white text with a medical-green check icon.
+- Camera: Slow, precise push-in to emphasize the clarity and order. At the end of this segment, start a tiny lateral slide to hint at transition.
+- Lighting: The tablet glows with soft, cool light, reflecting slightly on the medic’s gloves or nearby surfaces in the blurred edges of the frame. Background is out of focus and dark, emphasizing the UI.
+- SFX: Each piece of text appearing has a gentle click or type sound, and the "Insurance-ready" badge has a slightly brighter chime.
+
+8.0-10.0s — PAYOFF: COMPLETED REPORT INTO HERO FRAME
+- At around 8.0s, as the narrator begins "So crews stay on the patient, not the paperwork," complete the last few UI animations and transition to an abstract hero shot.
+- Visuals:
+  - The report on the tablet performs a subtle, satisfying completion motion: a tiny label near the top shifts from "Draft" to "Complete" with a small teal glow and a soft confirmation chime.
+  - Immediately after this animation (around 8.5s), background elements (medic, patient, ambulance interior) gently fade out to black while the report UI card stays illuminated.
+  - The report UI card then floats and scales slightly, repositioning to the left-center of the screen, as if it is now in a clean digital space rather than the physical ambulance.
+- Background:
+  - The backdrop transitions to a deep navy/charcoal gradient with a subtle medical grid pattern faintly visible. Behind the report, a calm, gently looping electric-teal data wave or stream slowly flows horizontally, indicating ongoing real-time intelligence but now controlled and minimal.
+- Camera: Now a stable, almost graphic composition. Very slight, slow push-in to maintain life while feeling steady.
+- SFX: Soft ambient hum, a subtle whoosh as the environment simplifies, and the completion chime for the report.
+
+10.0-12.0s — BRAND LOCKUP: CARESWIFT
+- Composition:
+  - Left side: The crisp CareSwift report card remains, now smaller, occupying roughly the left third of the frame. It is tilted just a few degrees in 3D space to show depth but remains legible.
+  - Right side: The CareSwift logo appears. Use simple, modern sans-serif logotype in electric teal and white. Add a small, abstract icon (e.g., a stylized teal pulse/data wave forming a checkmark) to the left of the wordmark.
+  - Below the logo, fade in the tagline text in white: "Real-time AI reports. Zero paperwork." Centered under the logo, small but clearly readable.
+- Background: Deep navy/charcoal with a faint gradient from slightly lighter center to darker edges. The subtle medical grid is still barely visible. Behind both the report and logo, a slow-moving, soft electric-teal glow or flowing data ribbon adds sophistication without distraction.
+- Camera: Locked-off static shot. No more camera moves; this stability conveys trust and reliability.
+- Lighting: Soft, even lighting, with a very subtle bloom around the logo and tagline for emphasis. No more flashing emergency lights; the scene is calm and controlled.
+- Sync with narration: As the narrator says, "CareSwift — real-time AI reports. Zero paperwork," the logo and tagline should be fully visible and stable on screen.
+- SFX: The final words align with a gentle, confident audio logo-like chime, subtle but memorable. Music resolves to a stable, simple chord by 12.0s and then cuts cleanly.
+
+TEXT OVERLAYS (visual text separate from narration):
+- 0.5-2.5s (bottom-left): "Turn chaos into clean." white text, thin sans-serif, small electric-teal underline animation.
+- 10.0-12.0s (right side under logo): "Real-time AI reports. Zero paperwork." in white, clean sans-serif.
+
+Brand and product clarity:
+- Ensure the product name "CareSwift" is visually present only in the final brand lockup (10-12s) and clearly readable.
+- The UI and data interactions should implicitly communicate: real-time AI scribing, speech-to-structure, and insurance-ready documentation without cluttering the screen with extra labels.
+
+Technical details:
+- Aspect ratio: 16:9, cinematic composition.
+- Duration: Exactly 12 seconds.
+- Keep motion smooth and precise; no shaky camera. Emphasize rule-of-thirds composition, with strong leading lines from the ambulance interior and UI elements guiding the eye toward the tablet and then the logo.
+- Avoid any gore or distressing patient visuals. Focus on urgency, professionalism, and technology.
+
+The final output should feel like an ultra-premium, cinematic 12-second spot that instantly makes founders and investors grasp that CareSwift listens during high-stress ambulance calls and auto-generates precise, compliant, insurance-ready reports so crews can focus on the patient—not paperwork.

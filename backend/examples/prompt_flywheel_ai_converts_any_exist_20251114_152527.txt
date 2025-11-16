@@ -1,0 +1,151 @@
+Create a 12-second cinematic 16:9 landscape video with synchronized audio, showing how Flywheel AI upgrades existing excavators from on-site muscle to remotely operated, data-generating, autonomy-ready robots. Visual style is industrial-futuristic and realistic, like a mix of Boston Dynamics product footage and a Caterpillar commercial, with clean Apple-style tech overlays. Color palette: earth tones and construction colors (yellows, oranges, concrete grays, dusty browns) contrasted with electric teal/cyan accents for all intelligence elements (module glow, control link, data trails, ghost path, UI). Lighting: harsh, bright natural daylight with dust and long shadows on the construction site; soft, cool, controlled lighting in the command center. Camera motion is smooth, deliberate, with one bold whip/snap between danger and safety.
+
+DURATION & STRUCTURE:
+Total duration: exactly 12 seconds.
+Pacing: 0-3s hook (danger vs distance), 3-8s core demo (remote ops + data), 8-12s closer (autonomy ghost path + branding).
+
+AUDIO OVERVIEW:
+• Narrator voice: professional, confident, calm, and industrial-grade; mid-low male or female timbre, neutral American accent, minimal inflection but assured and modern.
+• Background music: low, pulsing, cinematic industrial bed with subtle synths and deep percussion, tempo around 90–100 BPM; starts understated, swells slightly around 5–8s to emphasize the upgrade and autonomy, then resolves confidently at the logo.
+• Sound design: realistic excavator engine rumble, hydraulic whine, bucket scraping dirt, distant construction ambiance (beeps, distant trucks), subtle UI beeps and data whooshes for the tech elements, faint mechanical click when the module attaches, electrical hum for the AI aura, gentle whoosh when data trails and ghost path form. All SFX mixed under narration but clearly audible.
+
+DETAILED TIMELINE WITH VISUALS, CAMERA, AND AUDIO:
+
+0.0-1.5s (SHOT 1 – HOOK: EMPTY CAB IN DANGER ZONE)
+Visual:
+• Exterior, active construction site in harsh midday light. A full-size yellow excavator swings its bucket aggressively toward the edge of a deep pit and spray-painted utility markings.
+• The frame is wide enough to show the bucket, pit edge, and the cab clearly. The cab is obviously empty; we see through the windows: no operator inside.
+• Orange safety fencing and red/yellow utility spray paint on the dirt emphasize hazard. Background includes cranes, rebar, and dirt piles.
+• Dust hangs in the air, catching the sunlight; slight lens flare when the boom moves across the sun.
+Camera:
+• Start very close to the bucket and pit edge with a wide lens; slight handheld shake and vibration as the machine moves.
+• As the bucket stops inches from the edge and markings, do a micro push-in to intensify the sense of risk.
+Lighting & Color:
+• High-contrast daylight, warm earth tones, strong shadows. No teal yet, just gritty realism.
+Audio:
+• Excavator engine rumble, hydraulic hiss, bucket scraping dirt, a faint clank as it stops.
+• Background: muffled beeps from other machinery and distant construction noise.
+• Music: low, tense industrial pulse begins.
+Narration (0.0-2.0s):
+• 0.0-2.0s – Narrator (confident, calm): "What if your excavator could work the danger zone… with no one in the cab?"
+
+1.5-3.0s (SHOT 2 – SNAP TO SAFETY: COMMAND ROOM)
+Visual:
+• Snap to interior of a compact command center or office trailer. Medium shot of an operator sitting at a sleek console.
+• The operator wears a high-vis vest, no hardhat (helmet hangs on a hook behind them), with a headset on. They hold dual joysticks and calmly control the machine.
+• In front of them, three monitors: center screen shows the live excavator camera feed from the site; side screens show a simple 3D silhouette of the excavator with teal lines representing boom and bucket motion, plus a minimal site map.
+Camera:
+• Transition from shot 1 via a quick whip-pan or brisk snap-cut that implies continuity in time.
+• Inside the command room, the camera is now smooth and stable, with a subtle dolly-in toward the operator and screens, contrasting the previous shake.
+Lighting & Color:
+• Soft, cool, controlled interior lighting. Slight blue tint to emphasize safety and control.
+• Monitors are the brightest surfaces; their UI accents are electric teal/cyan.
+Audio:
+• Excavator sounds are now slightly muffled, as if heard through video/audio feeds.
+• Subtle room tone: faint HVAC, electronics hum.
+• Occasional soft UI beep as data updates.
+• Music: continues low and steady.
+Narration:
+• Continuation of first line, finishing by 2.0s, then leading into next line.
+• 2.0-4.0s – Narrator: "Flywheel AI turns the machines you already own into remotely operated robots…"
+
+3.0-4.5s (SHOT 3 – PLUGGING IN THE BRAIN: MODULE ATTACHES)
+Visual:
+• Cut back outside to a hero medium-wide side shot of the excavator.
+• A compact, rugged Flywheel AI module moves into place on the side or roof of the cab. It snaps on magnetically or via industrial clips.
+• As it locks in, the Flywheel AI logo on the module lights up in electric teal. From the module, a soft teal glow pulses outward along thin semi-transparent lines tracing the cab outline and major joints of the boom – a “remote control aura.”
+• A thin, bright teal beam or line extends briefly from the module off into the distance, symbolically linking to the command center.
+Camera:
+• Smooth lateral dolly past the excavator with foreground rebar or cables for parallax.
+• Subtle push-in toward the module as it clicks into place and glows.
+Lighting & Color:
+• Harsh daylight continues; AI glow adds teal highlights on nearby metal, faint volumetric glow in dust.
+Audio:
+• Distinct, satisfying mechanical click/clamp SFX as the module attaches.
+• A soft electronic whoosh and hum as the teal aura and link beam appear.
+• Music: subtly swells with a new high synth layer, hinting at upgrade.
+Narration:
+• Line from 2.0-4.0s continues here: "…turns the machines you already own into remotely operated robots…"
+
+4.5-6.0s (SHOT 4 – HUMAN IN THE LOOP, DATA ON SCREEN)
+Visual:
+• Over-the-shoulder shot from behind and slightly above the operator in the command center.
+• Center monitor shows a split view: live video of the excavator digging near the hazard, and a simplified teal 3D outline of the same machine moving in perfect sync.
+• UI elements: teal lines showing boom angle, bucket position, and a small time-series graph streaming along the bottom, updating as the operator moves the joysticks.
+• The operator makes a precise joystick input; the UI responds instantly.
+Camera:
+• Mostly static, with a slow, subtle forward creep to emphasize focus and control.
+Lighting & Color:
+• Soft cool tones, monitors casting teal reflections on the operator’s hands.
+Audio:
+• Light joystick movement sounds (plastic/metal rubbing), faint UI tick/beep when motion starts.
+• Excavator audio still audible through the live feed.
+• Music: steady, confident.
+Narration:
+• 4.0-7.0s – Narrator: "…streaming every movement as data to train autonomous policies."
+
+6.0-8.0s (SHOT 5 – MACHINE + DATA TRAILS OUTSIDE)
+Visual:
+• Wide side shot of the excavator working along the trench edge, cab clearly empty.
+• The bucket moves faster and more precisely than in the opening, avoiding the pit edge and utility markings with ease.
+• As the boom and bucket move, glowing teal data trails follow every motion, lingering briefly behind like luminous ribbons, outlining a history of movements around the machine.
+• Small, subtle UI-like markers (dots or tiny tags) appear along the trails, then fade.
+Camera:
+• Smooth tracking shot parallel to the excavator; foreground rebar, cones, or fencing pass by to create cinematic parallax.
+Lighting & Color:
+• Warm sunlight, dusty air. Teal trails are vivid against muted earth tones.
+Audio:
+• More confident machine movement: hydraulic swish, gravel scrapes.
+• Soft whooshes as data trails appear and fade, synced to the bucket motion.
+• Music: slight build in intensity, but still understated.
+Narration:
+• Continues the 4.0-7.0s line here.
+
+8.0-10.0s (SHOT 6 – TOP-DOWN GHOST PATH: AUTONOMY EMERGES)
+Visual:
+• Transition into a top-down, semi-orthographic visualization that still feels grounded in reality, like an overlay mode from Tesla Autopilot or similar.
+• The excavator and trench are visible from above, slightly desaturated, with subtle outlines to keep clarity.
+• Existing teal data trails around the machine start to converge, smoothing into a single, glowing cyan ‘ghost path’ that extends ahead of the excavator along the trench edge.
+• The excavator’s boom begins to follow this ghost path with minimal visible joystick input; a small UI icon near the machine indicates an assist/autonomy mode.
+• Optionally, a tiny inset in a corner shows joystick bars barely moving, reinforcing ‘minimal human input.’
+Camera:
+• Slow, graceful orbital move around the top-down scene (rotate 20–30 degrees), enhancing 3D depth without losing readability.
+Lighting & Color:
+• Scene slightly darkened/desaturated; ghost path is bright and crisp teal with a soft outer glow, pulsing gently.
+Audio:
+• Subtle electronic whoosh as data trails merge into the ghost path.
+• Soft electrical hum or chime when the ghost path takes over guidance.
+• Music: small swell, adding a hint of uplift and future-forward mood.
+Narration:
+• 7.0-9.5s – Narrator: "Safer crews today. Smarter, self-driving fleets tomorrow."
+
+10.0-12.0s (SHOT 7 – HERO LOCKUP: TAGLINE + LOGO)
+Visual:
+• Cut back to a live-action hero wide shot of the excavator on the site, center frame.
+• The glowing ghost path from the top-down view now appears in the real scene as a 3D teal ribbon looping around and along the excavator’s working arc, then stabilizing around it.
+• The excavator pauses in a powerful stance at the edge of the trench.
+• On-screen text fades in cleanly on the right or lower third, in modern sans-serif:
+  - Line 1 (larger): "Remote today. Autonomous tomorrow."
+  - Beneath: "Flywheel AI" with a simple, bold logo mark.
+  - Optional smaller subline: "Remote ops + autonomy for the excavators you already own."
+Camera:
+• Very gentle, slow push-in toward the excavator and text, completely stable, no shake.
+• Background slightly defocused/vignetted to emphasize machine, path, and branding.
+Lighting & Color:
+• High-contrast look with a subtle cool rim light from the ghost path glow on the excavator’s edges.
+• Earthy background; teal intelligence elements stand out.
+Audio:
+• Machine sounds continue but slightly softened to make room for the brand line.
+• Ghost path emits a soft, reassuring hum.
+• Music: reaches a confident, resolved chord and sustains softly under the logo.
+Narration:
+• 9.5-12.0s – Narrator: "Flywheel AI — remote today, autonomous tomorrow."
+
+STYLE & BRANDING NOTES:
+• Keep all UI and overlays minimal, sharp, and readable, always secondary to the physical machine so the excavator remains the hero.
+• No exaggerated sci-fi holograms; everything should feel plausibly near-term and industrial-grade.
+• The empty cab is always clear when shown, reinforcing remote safety.
+• The Flywheel AI module is compact and rugged, with subtle branding; teal glow must be distinct but not cartoonish.
+• The ghost path is the primary metaphor for autonomy: simple, smooth, and easy to understand at a glance.
+
+Ensure the final 12-second video synchronizes the narration lines exactly with the specified time ranges, mixes the background music and sound effects at appropriate levels under the voice, and preserves the cinematic, confident, industrial-futuristic mood throughout.

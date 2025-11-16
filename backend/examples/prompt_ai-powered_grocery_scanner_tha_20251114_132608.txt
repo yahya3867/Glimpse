@@ -1,0 +1,11 @@
+Create a fun, lighthearted 8-second video for FridgeChef, an AI-powered grocery scanner app. Make it funny and relatable, not serious or corporate.
+
+Scene 1 (0-3s): Top-down shot of messy kitchen counter with random ingredients scattered around (tomato, chicken, spinach, leftover rice). Show it like a "uh oh, what am I gonna make?" moment. Text overlay: "Nothing to cook?"
+
+Scene 2 (3-5s): Phone scans across ingredients. Blue tags pop up labeling each item with a satisfying *boop* sound. Ingredients slide into neat groups like Tetris pieces.
+
+Scene 3 (5-8s): Recipe cards appear on phone screen showing meal options. Quick snap transition to finished plated dish. Text: "FridgeChef - Your fridge, but make it dinner"
+
+Voiceover style: Friendly and conversational, not announcer-y. Like explaining a cool app to a friend. Keep it short and punchy.
+
+Tone: Playful, helpful, "this actually solves a real problem" energy. Bright lighting, upbeat music, satisfying UI sounds.

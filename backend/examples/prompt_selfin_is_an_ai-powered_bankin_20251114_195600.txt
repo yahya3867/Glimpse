@@ -1,0 +1,156 @@
+Create a 12-second cinematic 16:9 landscape product film for a fintech app called "Selfin". The tone is confident, precise, intelligent, and quietly premium. The mood is calm control, with a futuristic but human feel, and a strong sense of order emerging from chaos. Style reference: Apple keynote product films plus Stripe/Revolut UI animations, with a hint of minimalist sci‑fi HUD.
+
+GLOBAL VISUAL STYLE:
+- Aspect ratio: 16:9, landscape.
+- Color palette: deep charcoal and midnight blue backgrounds; primary accent electric teal/cyan for AI intelligence and data flows; secondary accent soft amber or lime for gains/savings; white/off‑white for typography and UI panels.
+- UI style: cinematic fintech, ultra-clean dark-mode dashboard with subtle 3D depth, refined rounded cards, and tasteful motion design. Think "Apple keynote meets Stripe dashboard" with Notion/Linear-level UI crispness.
+- Environment: abstract, spacious 3D environment like a cloud-based financial control room. No real-world desks or people. The UI floats in space.
+- Lighting: Start low-key and moody, then brighten slightly as the AI activates. Use a dark-to-light transformation: a soft teal glow from the AI core gradually cleans and illuminates the scene. Use subtle volumetric light beams and halos to communicate insight and clarity.
+- Camera: graceful, gliding, premium movement. Slight handheld wobble in early chaos, then perfectly smooth and stabilized once Selfin appears. One main dramatic push-in toward the AI core. Use depth and parallax with layered elements.
+- Pacing: very tight 12-second story. 0-3s hook with chaos, 3-8s core demo of aggregation + AI recommendations, 8-12s payoff and brand lockup.
+
+AUDIO DIRECTION:
+- Narrator voice: single voiceover, gender-neutral, mid-range, calm and confident, intelligent, slightly warm, premium tech brand style (similar to an Apple or Stripe product video). No exaggeration, no hype — measured, precise delivery.
+- Background music: minimal, modern electronic bed. Soft pulsing synths, slow tempo (around 80-90 BPM feel), calm yet forward-moving. Start sparse during chaos, introduce a clear, warm pad and a soft high synth tone when Selfin activates. No heavy drums; just subtle percussive ticks for transitions.
+- Sound design: gentle, sophisticated UI and data sounds. Soft whooshes as cards move, subtle chimes for connections and recommendations, a restrained, futuristic pulse when the AI core appears. All sounds should be quiet, clean, and premium — no cartoonish effects.
+
+FULL TIMELINE WITH VISUALS, NARRATION, MUSIC, AND SFX:
+
+0.0-1.0s (SHOT 1 – CHAOTIC MONEY SPACE, OPENING HOOK)
+VISUAL:
+- Wide shot of an abstract, dark 3D space. Background is deep charcoal fading into midnight blue.
+- In this space, dozens of semi-transparent tiles float at different depths: credit card tiles, bank balance panels, investment graphs, bill notices, and loan statements.
+- Some tiles show small red warning icons, red negative balances, or red "Fee" and "Due" labels. Small dates and amounts flicker.
+- Tiles drift in random directions, slightly colliding and overlapping, creating a sense of cluttered financial life.
+- The composition is layered: a few large tiles in the foreground out of focus, many mid-ground tiles sharp, and some smaller ones in the distant background.
+- The camera glides gently through this field with a subtle handheld wobble, like an unsteady drone shot.
+- Text overlay, upper-left or center, in clean white sans-serif: "All your money, everywhere…" This text fades in quickly by 0.3s and stays on screen until about 1.8s.
+
+CAMERA:
+- 16:9 wide lens, slow diagonal lateral movement. Slight handheld jitter to convey instability.
+
+LIGHTING:
+- Low-key lighting, local glows from each card’s content. Red warning tiles cast a faint red tint around them.
+- The overall scene feels dim and messy.
+
+AUDIO:
+- Background music: soft, minimal synth pad, low volume, a bit unresolved and slightly tense.
+- Sound effects: gentle, distant whooshing of data/tiles moving, very subtle.
+
+NARRATION (0.0-1.0s):
+- Narrator, calm and confident: "All your money, scattered across banks, cards, and loans…"
+
+1.0-3.0s (SHOT 1 CONTINUES, THEN SUBTLE PULSE OF ORDER)
+VISUAL:
+- Continue in the same chaotic environment.
+- Tiles drift; a couple lightly bump each other, jittering slightly.
+- Between 1.5s and 2.0s, a faint teal pulse appears exactly at the center of the frame: a soft circular wave of light that expands outward, slightly illuminating the edges of nearby tiles.
+- As the teal pulse appears, the handheld wobble reduces a little, hinting at stabilizing control.
+- The text "All your money, everywhere…" begins to fade out around 1.8s.
+
+CAMERA:
+- Continues drifting but with slightly less wobble as the teal pulse occurs.
+
+LIGHTING:
+- The teal pulse casts a briefly brighter glow on everything, then subsides but leaves the scene marginally less dark.
+
+AUDIO:
+- Background music: a soft high synth tone quietly swells with the teal pulse, then holds.
+- Sound effects: a subtle, futuristic low-frequency "whum" or pulse sound aligned with the teal wave at around 1.6-1.8s.
+
+NARRATION (1.0-3.0s):
+- 1.0-2.0s: Narrator continues: "…never quite working together."
+- Slight pause after 2.0s to let the pulse land.
+
+3.0-5.0s (SHOT 2 – SELF-IN AI CORE ACTIVATES, CARDS ORBIT AND ORGANIZE)
+VISUAL:
+- At exactly 3.0s, the teal pulse coalesces into a glowing AI orb at the center of the scene. This orb is about the size of a large card but spherical, with a subtle internal pattern of lines and nodes, hinting at a neural network or AI brain.
+- The camera now pushes smoothly toward the orb; the handheld wobble disappears, movement becomes perfectly stabilized.
+- Thin electric teal lines shoot out from the orb to key floating tiles: a bank account card, a credit card, an investment graph, a loan panel. These connection lines are crisp and slightly glowing.
+- The moment the lines connect, the tiles stop drifting chaotically and gently rotate to face the orb, then glide into neat, circular orbits around it, each on a clean path.
+- The overall field of cards begins to look more orchestrated and rhythmic.
+
+CAMERA:
+- Slow, smooth push-in toward the orb from a medium-wide to a medium shot by 5.0s.
+- Movement is straight and precise, no shake.
+
+LIGHTING:
+- The AI orb emits a stronger teal glow, now a primary light source.
+- Volumetric beams subtly appear along the data lines connecting tiles to the orb.
+- Background midnight blue becomes a bit richer and less black.
+
+AUDIO:
+- Background music: adds a gentle, clear high pad or bell-like synth right as the orb appears, signaling clarity.
+- Sound effects: soft, high-tech connection chimes as the teal lines connect to the tiles (several quiet pings between 3.2-4.0s), and a smooth, low whoosh as cards start orbiting and aligning.
+
+NARRATION (3.0-5.0s):
+- Narrator: "Selfin pulls every account into one intelligent AI command center."
+
+5.0-8.0s (SHOT 3 – ORB MORPHS INTO DASHBOARD, RECOMMENDATIONS APPEAR)
+VISUAL:
+- By 5.0s, the push-in completes and the orb fills more of the center frame.
+- From 5.0 to 5.5s, the orb smoothly morphs into a rectangular UI panel that expands to become a sleek Selfin dashboard occupying most of the screen (frontal view, as if seen on a floating screen).
+- The surrounding orbiting tiles compress and transform into small icons (bank, card, investment, loan) that align around or near a central summary area.
+- A main dashboard card at the top or center reads "Connected: 12 accounts" with tiny icons representing different institutions beneath it, connected by animated teal lines converging into that central card.
+- Around 6.0s, this "Connected: 12 accounts" tile glows softly, confirming everything is now unified.
+- At ~6.2s, a hero recommendation card slides forward slightly in Z-depth and grows a bit larger than the other panels. It reads in clean white text on a charcoal panel:
+  "Move $2,300 from Checking → High-Yield Savings."
+  Subtext in soft amber or lime: "+$480/yr interest."
+- At ~7.0s, a second, smaller recommendation tile appears briefly below or to the side:
+  "Refinance loan → Save $120/month."
+  It slides in smoothly and then rests calmly.
+- All animations are smooth, easing in and out, no jitter.
+
+CAMERA:
+- As the orb morphs into the UI, the push-in eases to a stop. The camera holds in a frontal hero UI view with very slight micro-parallax to keep it alive.
+
+LIGHTING:
+- UI panels are softly lit, edges highlighted by teal rim light.
+- Background slightly brighter but still dark-mode.
+- Data flows and lines glow subtly in teal.
+
+AUDIO:
+- Background music: steady calm propulsion; chords resolve into something clearer, conveying control.
+- Sound effects: a gentle, refined UI "whoosh" as the orb morphs into the dashboard; a soft chime when the "Connected: 12 accounts" tile lights up; a slightly richer, warm chime as the main recommendation card appears; a smaller, polite click or blip as the second recommendation appears.
+
+NARRATION (5.0-8.0s):
+- 5.0-6.5s: Narrator: "It analyzes everything, and quietly recommends moves that grow your wealth automatically."
+- 6.5-8.0s: Let the visuals of recommendations breathe with minimal additional narration.
+
+8.0-12.0s (SHOT 4 – FULL DASHBOARD, TAGLINE, BRAND LOGO, PAYOFF)
+VISUAL:
+- At 8.0s, the camera begins a slow dolly back, revealing the full dashboard UI now framed inside a minimal floating device — either a thin-bezel laptop or a large phone frame in landscape.
+- The device floats centered in the abstract space. The dashboard shows well-organized sections:
+  - A "Cash" section showing a clean total with a small, subtle green upward arrow.
+  - An "Investments" section with tidy numbers and a faint upward graph.
+  - A "Debt" section showing a decreasing line and a small, discreet green arrow indicating improvement.
+  - A "Goals" section with simple progress bars.
+- The hero recommendation card remains visible and slightly larger than surrounding panels; it has a very gentle, slow pulsing glow around its border to suggest the AI is ongoing.
+- The background now features a brighter midnight blue gradient with a soft circular halo of light behind the device, spotlight-like.
+- From about 8.5-9.0s, the primary on-screen tagline animates in just below or above the device in clean white text:
+  "All your accounts. One AI that optimizes them."
+- At around 9.5s, the Selfin logo and product line appear in the lower right corner:
+  Selfin logo icon + wordmark, and beneath it in smaller text: "AI-powered banking for all your accounts."
+- All text and logo settle by 10.5s, leaving about 1.5 seconds of calm framing with a subtle glow.
+
+CAMERA:
+- Slow, smooth dolly back with an almost imperceptible arc, like a product hero shot.
+- The frame composition follows rule-of-thirds: device centered slightly above center, tagline near lower third, logo in bottom-right.
+
+LIGHTING:
+- The device and UI are softly front-lit, with gentle highlights, like a high-end product render.
+- Background halo accentuates the device; subtle floating dust-like particles in teal occasionally shimmer near the AI elements.
+
+AUDIO:
+- Background music: maintains the calm, resolved chord progression; perhaps introduces a soft, warm closing pad around 10s to feel conclusive.
+- Sound effects: faint, barely audible pulsing shimmer synced with the hero recommendation card’s glow; no harsh sounds.
+
+NARRATION (8.0-12.0s):
+- 8.0-9.0s: Brief pause to let the transformation breathe.
+- 9.0-12.0s: Narrator: "Selfin — AI-powered banking for all your accounts."
+- The narrator finishes speaking just before the 12-second mark, allowing the final logo frame to hold for a fraction of a second in silence except for the background music.
+
+TEXT OVERLAYS SUMMARY (for clarity):
+- 0.3-1.8s: "All your money, everywhere…" near the center or upper-left.
+- 8.5-12.0s: "All your accounts. One AI that optimizes them." near the lower-middle area.
+- 9.5-12.0s: Selfin logo and tagline in the bottom-right: "Selfin — AI-powered banking for all your accounts."

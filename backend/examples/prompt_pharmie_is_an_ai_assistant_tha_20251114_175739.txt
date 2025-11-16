@@ -1,0 +1,88 @@
+Create a 12‑second, 16:9 landscape video for a premium healthcare SaaS product called "Pharmie". The concept: chaotic pharmacy admin is transformed into calm, automated operations by an intelligent AI hub, like air traffic control for pharmacy ops. The video must include matching audio: a professional, warm, confident English-speaking narrator, subtle sound effects, and modern minimal background music. The visual style should be "Apple meets Stripe"—clean, minimal, slightly futuristic UI overlays integrated into a realistic but stylized modern pharmacy setting.
+
+Overall visual style and mood:
+- Environment: A modern neighborhood pharmacy counter and back office, no visible brands. Shelves with medication bottles are softly blurred in the background. Computer monitors and phones are present but generic.
+- Aesthetic: Premium healthcare SaaS; clinical minimalism. Clean whites and soft neutrals as the base, with Pharmie’s brand accent color as a glowing teal/electric blue signal. UI overlays look like polished product animations from Stripe, Notion, or Linear.
+- Color palette: Background whites and soft grays; teal/electric blue as the main accent for Pharmie and data flows; desaturated reds and yellows to depict error/chaos in the first 3 seconds, which completely disappear after Pharmie activates.
+- Lighting: First 3 seconds: slightly harsh overhead fluorescent pharmacy lighting with mild contrast and cluttered shadows to convey stress. After Pharmie appears, lighting shifts to softer, diffused key light, subtle rim lighting on key objects, and a gentle teal glow emanating from Pharmie’s UI elements, suggesting intelligence and control.
+- Camera: Start with handheld, slightly jittery movement and quick cuts; then transition to smooth, gliding camera motion with gentle push-ins and arcs as Pharmie takes over. Finish with a steady, locked-off hero shot on the logo.
+- Mood: High-stakes but controlled; confident, efficient, reassuring; calm after chaos; precision-driven automation.
+
+Narration and audio overview:
+- Voice: One narrator, gender-neutral, clear North American accent, tone confident, efficient, and quietly powerful. Delivery should be tight and well-paced, fitting exactly into 12 seconds.
+- Music: A minimal, modern electronic bed with light pulses and soft synths. Starts tense and slightly urgent in the first 3 seconds (a subtle, higher tempo and more dissonant chords), then resolves into a calmer, more harmonious progression once Pharmie appears at 3 seconds. No aggressive drums; keep it clean and cinematic.
+- Sound effects: Use realistic but understated SFX: phone ringing, soft paper rustle, subtle UI notification pings, whooshes when flows move, a gentle synth swell when Pharmie appears, and soft UI click/confirmation sounds when tasks are completed. All SFX should be balanced under the narration, never overpowering.
+
+Include the following exact narration, aligned with the visuals and timestamps:
+- 0.0–1.5s: Narrator (calm, professional, slightly urgent): "Your pharmacy is drowning in admin."
+- 1.5–3.0s: Narrator: "Calls, scripts, insurance… all at once."
+- 3.0–4.5s: Narrator, tone shifts to confident and reassuring: "Pharmie steps in as air traffic control for your operations."
+- 4.5–8.0s: Narrator: "It captures every call, prescription, and insurance task—and routes them end-to-end, automatically."
+- 8.0–10.0s: Narrator, warm and assured: "Your team stays with patients. Pharmie handles the rest."
+- 10.0–12.0s: Narrator, clear product line, slightly slower for emphasis: "Pharmie—AI that runs your pharmacy admin so you save time and capture more revenue."
+
+Now, design the video shot by shot with synchronized visuals, camera, lighting, SFX, and music.
+
+SHOT 1 — CHAOS HOOK (0.0–1.2s)
+- Visuals: Extreme close-up of a multi-line landline phone on a pharmacy counter. Several line indicators flash red and yellow rapidly. The phone vibrates slightly as it rings. A semi-transparent UI overlay hovers above the phone showing: "13 calls in queue" in a thin, modern sans-serif font with a small red dot.
+- Camera: Handheld close-up with mild shake, mimicking someone under stress. At the beginning, the camera is slightly off-center; perform a quick 5–10% snap-zoom in on the flashing lights to feel abrupt.
+- Lighting: Hardish overhead fluorescent lighting, reflections on the glossy phone surface. Slightly higher contrast and a subtle reddish tint to emphasize stress.
+- SFX: Loud but realistic office phone ringing (multi-line phone sound), subtle desk vibration sound, a faint overlapping ringtone in the background as if multiple phones are going off. Music underlying is tense, with a fast, soft electronic pulse.
+- On-screen text: In the lower-left corner, subtle but legible: "Admin chaos. Every minute." in white text on a semi-transparent dark bar. Text should not distract from the action.
+- Narration: From 0.0–1.5s over this and next shot: "Your pharmacy is drowning in admin."
+
+SHOT 2 — MORE CHAOS (1.2–2.2s)
+- Visuals: Quick whip-pan to a macro shot of a frazzled hand flipping through a messy stack of paper prescriptions and printouts. Some pages are slightly crumpled. Light yellow sticky notes stick out with handwritten words: "CALL BACK", "INSURANCE DENIED", "HOLD". As the hand flips pages, these words briefly echo as crisp digital UI overlays popping above the papers.
+- Camera: Handheld, horizontal whip-pan from the ringing phone to the papers, overshooting slightly then settling. Maintain a jittery feel. Depth of field is shallow, focusing on hands and documents.
+- Lighting: Same harsh overhead light with small hard shadows from the stack of papers. The scene feels busy and cluttered.
+- SFX: Paper shuffling, slight thud when the stack is dropped or grabbed, faint background beep from a fax machine or computer. One or two subtle red-tinged UI "error" pings when "INSURANCE DENIED" appears.
+- Narration (continuing, 1.5–3.0s): "Calls, scripts, insurance… all at once."
+
+SHOT 3 — OVERWHELMED STAFF (2.2–3.0s)
+- Visuals: Medium shot from behind the counter. The pharmacist stands at the pharmacy front desk, wearing a white coat and simple name badge (no brand). Headset slightly askew. One hand holds the phone to their ear, the other reaches toward another ringing line. In the foreground, slightly out of focus, a waiting customer stands at the counter. Around the pharmacist, 2D UI overlays pop into view: a vertical stack of red and yellow alerts, reading "Calls missed", "Refills waiting", "Prior auth requests." The alerts jitter slightly as new ones stack on top. As we approach 2.9s, the entire frame begins to gently desaturate, and motion slows into a slight freeze.
+- Camera: Slightly shaky, medium shot. Perform a short dolly-in toward the pharmacist’s stressed face, then ease into a brief freeze-frame on the height of their overwhelmed expression.
+- Lighting: Continuation of the harsh, unflattering fluorescent look. Shadows from shelves and monitors add clutter.
+- SFX: Layered phone ringing, faint background chatter from the retail area, low-level HVAC hum. Several overlapping UI error tones in the background. As the frame freezes, the chaos SFX and music begin to gently duck in volume to make space for the upcoming transition.
+- Narration: The end of the line "Calls, scripts, insurance… all at once." finishes here.
+
+SHOT 4 — PHARMIE APPEARS (3.0–3.7s)
+- Visuals: On the frozen medium shot, background colors desaturate further, and the edges blur slightly, pushing focus to the center of the frame. A soft teal/electric-blue glow begins to bloom above the counter in midair. The chaos alert overlays pause, then start to gently drift toward the glow like particles. The glow solidifies into a refined AI hub: a semi-transparent 3D orb or circular hub with a subtle rotating ring around it. The word "Pharmie" appears in clean white sans-serif, either around the hub or floating just beneath it.
+- Camera: Transition from handheld to perfectly stabilized, smooth camera. Slowly push in toward the hub as it forms.
+- Lighting: The harsh overhead light softens. Introduce a diffused key light on the hub and a subtle halo glow that washes over nearby surfaces, slightly cooling the color temperature. Background dims just enough to emphasize the hub.
+- SFX: A gentle, futuristic synth swell as the glow appears. The chaotic phone and error sounds fade to the background and become muffled. Soft, high-tech "particles drawn in" sound as alerts move toward the hub.
+- Music: Tension resolves slightly; the score shifts to a smoother, more harmonious electronic pad with a clear beat but restrained.
+- Narration (3.0–4.5s): "Pharmie steps in as air traffic control for your operations."
+
+SHOT 5 — AIR TRAFFIC CONTROL METAPHOR (3.7–6.0s)
+- Visuals: Cut to a semi-abstract, stylized medium-wide overhead shot of the counter area, now serving as a stage for the AI metaphor. The real-world objects are still visible but slightly blurred and muted. From the phones, glowing blue lines rise up labeled with a small tag "Calls". From the paper stacks, green lines labeled "Rx" rise up. From a monitor showing insurance info, violet lines labeled "Insurance" rise. These lines curve gracefully toward the central Pharmie hub, like flight paths on an air traffic control radar. As they reach the hub, they pass through it and emerge on the other side as neat, glowing tracks moving in parallel. Each line spawns minimal UI cards with checkmarks: "Call answered", "Refill ready", "Prior auth approved".
+- Camera: Smooth orbital move around the hub, about a 120-degree arc, with a continual, slow push-in. The motion is calm and controlled, contrasting with the earlier jitter.
+- Lighting: Very soft, diffuse lighting; the hub and the flow lines emit their own subtle glow in teal, blue, green, and violet. Background is slightly darker and blurred to keep attention on the flows.
+- SFX: Gentle whooshes as each stream locks into the hub, soft high-tech chimes as checkmarks appear on the UI cards. No harsh sounds.
+- Music: Continues the calm, minimalist electronic bed with a steady, confident pulse.
+- Narration (continuing 4.5–8.0s over this and next shot): "It captures every call, prescription, and insurance task—and routes them end-to-end, automatically."
+
+SHOT 6 — ORGANIZED WORKFLOW UI (6.0–8.0s)
+- Visuals: The orbit settles into a front-facing view of a floating SaaS-style workflow UI above the counter. The Pharmie hub sits at the left, feeding into three horizontal tracks labeled "Calls", "Prescriptions", and "Insurance". Each track has small, rounded cards that slide smoothly from left ("Incoming") to right ("Handled"). Cards are minimal: a small icon (phone, pill bottle, insurance card), a short label like "New patient call", "Refill", "Prior auth", and a green status indicator. At the far right of each track, items disappear into a stack labeled "Completed" with a solid green bar.
+- Camera: Smooth, slow push-in on the workflow UI, then a very slight upward tilt that begins to reveal the real pharmacist behind it, now calm, in the background.
+- Lighting: Soft, studio-like. The UI surfaces have a subtle glossy sheen and faint shadows for depth.
+- SFX: Soft UI click and whoosh sounds as cards move from "Incoming" to "Handled" and then to "Completed". Small, satisfying confirmation chimes when green checkmarks appear.
+- On-screen text overlay (small, near the bottom): "Pharmie = air traffic control for pharmacy ops" for about one second, then subtly fade.
+
+SHOT 7 — CALM PHARMACY PAYOFF (8.0–10.0s)
+- Visuals: Cut to a medium live-action hero shot of the pharmacy counter from the customer’s perspective. The pharmacist is relaxed, smiling, making friendly eye contact with a patient and handing them a neatly labeled prescription bag. The background workspace is tidy: phones no longer flashing, stacks organized, no visible paper chaos. Over the pharmacist’s shoulder, a floating, premium dashboard UI appears: three large tiles reading "Calls handled", "Prescriptions processed", and "Insurance approved". Each tile shows a bold green completion bar nearly full, like 98–100%. A small Pharmie hub icon sits in the top-right corner of the dashboard, pulsing gently.
+- Camera: Locked-off, gently centered composition. Apply a very slow, almost imperceptible push-in to create a sense of focus and stability.
+- Lighting: Soft, flattering, neutral to slightly cool color temperature. Add a subtle rim light on the pharmacist and patient to separate them from the background. The dashboard UI glows softly.
+- SFX: Light ambient pharmacy background (very soft), faint murmur of distant customers, but no stress sounds. The phone is quiet. Subtle, pleasant UI hum from the floating dashboard.
+- Music: Calm, confident, slightly uplifting chord progression continues.
+- Narration (8.0–10.0s): "Your team stays with patients. Pharmie handles the rest."
+
+SHOT 8 — LOGO & TAGLINE LOCKUP (10.0–12.0s)
+- Visuals: Cut to a full-screen, clean product lockup on a white or very light neutral gradient background. In the center, the Pharmie logo appears in the brand accent color (teal/electric blue). Beneath it, in dark gray or black text: first line in slightly larger font: "AI that handles calls, prescriptions, and insurance end-to-end." Below that, a second line fades in: "So your pharmacy saves time and captures more revenue." Tiny, simple icons for a phone, an Rx symbol, and an insurance card appear momentarily under the logo, then collapse into a single, smooth flowing line that underlines the main tagline, hinting at unified workflow.
+- Camera: Steady, perfectly locked-off frame. Apply a very subtle micro push-in on the logo between 10.5 and 12 seconds for emphasis.
+- Lighting: Even, soft, product-style lighting. A faint circular glow behind the logo adds depth.
+- SFX: A clean, subtle "whoosh" as the logo appears, followed by a gentle confirmation chime as the final line of text finishes animating.
+- Music: Resolve the music phrase with a soft, satisfying cadence right at 12 seconds, then fade out.
+- On-screen text: Centered under the logo: "Pharmie" and the two-line product statement as described.
+- Narration (10.0–12.0s): "Pharmie—AI that runs your pharmacy admin so you save time and capture more revenue."
+
+End the video exactly at 12.0 seconds, with the Pharmie logo and tagline fully visible, music resolved, and no abrupt cuts.

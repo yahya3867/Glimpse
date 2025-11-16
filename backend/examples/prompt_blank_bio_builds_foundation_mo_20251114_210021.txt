@@ -1,0 +1,120 @@
+Generate a 12-second, 16:9 landscape, ultra-high-end cinematic biotech x AI brand film for a company called "Blank Bio." The tone is confident, pioneering, precise, and quietly powerful. The mood is futuristic yet grounded in biology: clinical, focused, high-intelligence, with controlled intensity. Visual style should feel like a blend of Apple launch films, NVIDIA AI promos, and premium biotech molecular visualizations (Genentech/Moderna style), with subtle futuristic UI akin to Ex Machina.
+
+Overall visual guidelines:
+- Environment: An abstract "RNA universe" — a dark volumetric 3D space filled with RNA strands, data grids, and neural-network-like connections. It should feel like being inside the conceptual engine room of an RNA foundation model, not a physical lab.
+- Color palette: Backgrounds in deep midnight navy and charcoal. Accents in cyan and teal for RNA, AI pathways, and data flows. Occasional controlled neon magenta and soft white for insight moments. Clinical clarity, no rainbow colors.
+- Aesthetics: Organic curves of RNA intertwined with sharp, geometric, translucent AI/data overlays. No cartoon or playful elements, all pharma-grade polish.
+- Composition: Center-weighted hero elements, strong leading lines from strands and pathways guiding the eye, with clear depth separation (foreground strands, midground data overlays, background glows).
+- Camera: Smooth, gliding movements like flying through molecular space. Fast assertive push-in in the opening, then controlled purposeful tracking and pull-backs.
+- Lighting: Dark volumetric atmosphere with precise pools of light revealing key structures. Use glows and subtle lens bloom when the AI ‘understands’ or locks onto optimal decisions.
+- Audio: Include a subtle, modern, minimal electronic score (no drums at first, evolving into a gentle pulse), with soft whooshes for transitions and gentle chimes for insight moments.
+
+Narrator voice:
+- Single narrator, gender-neutral, with a professional, warm, intelligent tone. Calm and controlled, but with quiet intensity. No hype, no exaggerated enthusiasm.
+- Spoken English with neutral, global accent.
+
+IMPORTANT: Synchronize visuals and narration precisely to these timestamps and lines. The narrator should speak clearly, slightly under-paced, leaving very short gaps between phrases.
+
+FULL NARRATION WITH TIMING:
+- 0.0-1.5s: Narrator: "RNA looks like noise."
+- 1.5-3.0s: Narrator: "Until something truly understands it."
+- 3.0-5.5s: Narrator: "Blank Bio is the foundation model built for RNA."
+- 5.5-8.0s: Narrator: "Turning raw sequences into mRNA designs and smarter clinical decisions."
+- 8.0-12.0s: Narrator: "Blank Bio. Foundation models that understand RNA."
+
+Sound design and music:
+- From 0-3s: Sparse, evolving synth pad in a low register, creating a sense of mystery and complexity. Light ticking or subtle glitch-like textures under the surface to suggest data noise.
+- At 1.5s (shockwave moment): A soft but clear, high-frequency synthesized chime with a short swell as the chaos resolves.
+- From 3-8s: Introduce a gentle, steady electronic pulse (muted kick or low percussive thump every beat) to give a sense of forward momentum. Add subtle whooshes synchronized with camera fly-through movements and data flow transitions.
+- At key optimization/completion moments (mRNA construct snapping together, optimal path lighting): Short, soft chime or click sounds, never cheesy, more like deliberate UI feedback.
+- From 8-12s: Music opens slightly with a warmer pad and a subtle harmonic lift as the system is revealed and the logo appears. End on a clean, resolved chord with a gentle tail, no abrupt cutoff.
+- Overall, keep the audio mix clean and minimal, ensuring the narration is always clearly intelligible above music and SFX.
+
+DETAILED VISUAL AND TIMING BREAKDOWN:
+
+0.0-1.5s (Shot 1 – Hook: RNA chaos):
+- Camera: Extreme macro close-up in 16:9. The whole screen is filled with a dense tangle of RNA strands and flickering letters.
+- Visuals: Show dozens of semi-translucent RNA-like strands (single-stranded, gently twisting fibers) tangled together. They overlap in foreground, midground, and background. Superimposed on and around these strands are the letters A, U, C, G, rapidly flickering in different positions, like digital static. The letters should be small, sharp, and bright but not too large; they should feel unreadable because they change position and intensity too rapidly.
+- Motion: The strands sway slightly, as if in a fluid, but their overall arrangement feels chaotic, with no clear pattern. The letters jitter and glitch. There are small digital artifacts and glitches in the background to enhance the sense of chaos.
+- Camera movement: Start with a wide macro view and immediately begin a fast, assertive push-in toward the densest knot of overlapping strands and letters at the center. Introduce a tiny, controlled micro-wobble in the camera to add tension, as if the viewer is struggling to focus.
+- Lighting: Dark midnight navy background with a subtle volumetric haze. Low-level diffuse rim light in cyan and teal along some strands. Overall, the image feels dim and muddy; the focus is on the chaos rather than any clear structure.
+- On-screen text: At about 0.3s, very subtle, small text may briefly appear and then get lost in the chaos (optional), but keep it minimal and almost unreadable to reinforce the problem.
+- Narration: Over this chaotic visual, the narrator calmly says, "RNA looks like noise." The voice should contrast with the chaos: steady and controlled.
+- SFX: Quiet glitchy static and soft granular noise layered under the pad, matching the flickering letters.
+
+1.5-3.0s (Shot 2 – Chaos resolves into order):
+- At exactly around 1.5s, create a visual ‘understanding’ event.
+- Visuals: A circular shockwave of soft white-cyan light emerges from the center of the frame and expands outward. As the shockwave passes through the RNA strands and letters, they straighten and align.
+- The once-tangled strands now form organized, parallel helices and clean, linear data rails. The letters A/U/C/G stop flickering and instead settle into neatly spaced positions along the helices.
+- The background glitches fade, replaced by subtle, calm neural network lines and nodes that lightly connect different parts of the helices.
+- Camera movement: The push-in continues for a fraction of a second and then eases into a more stable, composed shot. The final frame of this segment should be a stable macro view of the now-ordered RNA in the center, with depth-of-field showing crisp focus on central helices and gentle blur on foreground/background strands.
+- Lighting: Increase brightness just as the shockwave passes, with a moment of soft bloom and glow on edges of the strands and letters. Then, settle into a crisp, high-contrast look: well-defined cyan/teal highlights on the helices, darker background, with a faint magenta accent on key nodes.
+- On-screen text: From about 2.0-3.0s, overlay clean white text at the bottom center: "RNA is the new code." in a thin, modern sans serif font. It should be minimal and not cover key visual details.
+- Narration: During this, the narrator continues, "Until something truly understands it." The word "understands" should coincide with the moment where the shockwave has mostly completed and the structure is clearly ordered.
+- SFX: A soft, bright synthesized chime at the start of the shockwave. The background glitch noise fades. A delicate whoosh sound accompanies the ripple.
+
+3.0-5.5s (Shot 3 – Fly-through: RNA understanding in action):
+- Transition: At ~3.0s, transition by letting the camera begin moving forward along one of the centered, now-ordered helices. The previous shot smoothly turns into a forward fly-through.
+- Camera: Smooth forward tracking/flying along a main RNA strand that curves gently through 3D space. Keep the helix centered or slightly off-center, with generous depth showing additional strands and faint data grids in the background.
+- Visuals: As the camera moves, AI/data overlays appear around the RNA:
+  - Certain segments of the sequence are highlighted in glowing cyan, with faint halos around nucleotides.
+  - Other segments dim slightly, indicating they are less optimal.
+  - Semi-transparent, rectangular UI panels appear floating near the strands, showing small, legible but non-distracting data: scoring bars, base substitution suggestions, labels like "stability", "expression", "immunogenicity" with small arrows pointing up or down.
+  - Fine geometric lines and nodes, like a neural network pattern, connect multiple regions of the RNA, suggesting multi-dimensional understanding.
+- Camera movement: Forward motion follows the curvature of the strand. Introduce subtle lateral motion (a slight dolly left, then right) to create parallax between the main strand in the foreground and the distant data grids and other strands. Movement should feel confident and purposeful, not frantic.
+- Lighting: Stronger, more deliberate lighting now. Crisp rim light along the main helix, with soft cyan/teal glow where the AI is focusing. The background remains darker, but with occasional faint magenta pulses in nodes where AI is making key connections.
+- On-screen text: At around 4.0-5.0s, you may lightly hint at what’s happening via micro-labels, but keep them subtle, not like a full UI demo.
+- Narration: Over this, from 3.0-5.5s, the narrator says: "Blank Bio is the foundation model built for RNA." The phrase "foundation model" should correspond to the feeling of the AI overlays and networks clearly understanding and analyzing the entire RNA context.
+- SFX: Introduce a gentle, steady electronic pulse in the music. Add soft, precise UI tick/click sounds as individual nucleotide regions highlight or change. Subtle whooshes as the camera flies through.
+
+5.5-8.0s (Shot 4 – mRNA construct and clinical trial optimization):
+- Transition: As the camera continues moving forward, begin to widen the frame so we can see both the RNA and a new construct forming.
+- Camera: Transition from a pure fly-through to a slightly wider, more composed shot. The main RNA helix arcs from left foreground to upper midframe. To the right midframe, leave space for the mRNA construct to assemble and for the clinical trial graph to appear in the distance.
+- Visuals (mRNA construct):
+  - Show a linear chain starting as a few glowing teal blocks floating in place.
+  - Over ~1 second, additional segments slide in from offscreen or from the RNA strand, snapping perfectly into place with soft pulses of light.
+  - Each segment glows teal/cyan, with occasional fine magenta lines marking key enhancements.
+  - Faint annotations appear briefly above new segments as they join: e.g., "optimized UTR", "codon-optimized", "reduced immunogenicity" (tiny, tastefully minimal).
+- Visuals (clinical trial graph):
+  - As the mRNA construct completes around 6.5-7.0s, it emits a beam or projection of light forward.
+  - This beam resolves into a minimal clinical trial visualization: a set of nodes representing patient cohorts, arranged in a simple network or along a timeline plane.
+  - Show multiple potential paths as thin lines connecting nodes and time points. Initially, several paths glow faintly.
+  - Gradually, non-optimal paths turn gray and fade. One main path becomes bright cyan, thickens slightly, and gently pulses, indicating the optimized trial design.
+  - Include subtle minimal graph elements: axes, a faint response curve line that becomes bolder on the chosen path.
+- On-screen text: In the lower third, overlay a clean, small line of text from about 6.0-7.5s: "From RNA understanding → mRNA design → smarter trials." Use a thin, modern white font with subtle tracking.
+- Lighting: The mRNA construct and the clinical trial graph are now the brightest elements in frame. The RNA in the background dims slightly but remains visible as context.
+- Narration: Over this segment, from 5.5-8.0s, the narrator says: "Turning raw sequences into mRNA designs and smarter clinical decisions." The phrase "mRNA designs" should align with the construct snapping together; "smarter clinical decisions" should align with the optimal trial path illuminating.
+- SFX: Soft but satisfying click/pulse for each mRNA segment locking into place. A smooth, rising whoosh as the projection forms the trial graph. A subtle chime when the optimal path lights up.
+
+8.0-10.0s (Shot 5 – System-level reveal: foundation layer and pillars):
+- Transition: As the clinical trial graph stabilizes with the chosen path, start pulling the camera back and tilting up slightly.
+- Camera: Smooth pull-back and slight upward tilt to reveal a broader vista: the entire RNA universe, data flows, and a foundational plane with pillars above.
+- Visuals:
+  - The mRNA construct and trial visualization become part of a larger landscape. The camera reveals that they are just one pillar among several.
+  - At the bottom of the view, introduce a glowing, translucent plane stretching horizontally across the frame. This is the "foundation model" layer.
+  - The plane is semi-transparent, with fine neural-network circuitry patterns and subtle grid lines that pulse gently with light.
+  - From this plane, several vertical data pillars rise:
+    * Left pillar: associated with mRNA vaccines. Use a simple icon of a vaccine vial and a tiny label "mRNA vaccines" near it.
+    * Center pillar: associated with RNA therapeutics. Icon could be a stylized RNA strand intertwined with a small molecule; label: "RNA therapeutics".
+    * Right pillar: associated with clinical optimization. Icon: simplified timeline and patient nodes; label: "clinical trials".
+  - The RNA universe – strands, data lines, and neural nodes – hover above and around, with luminous data flows (thin cyan/teal streams) running from these upper regions down into each pillar and then into the foundation plane.
+  - The whole structure should feel like a clean, architectural map of the RNA ecosystem powered by the foundation layer.
+- Lighting: The foundation plane now becomes the main light source from below, casting soft cyan/teal glows upward onto the pillars. The surrounding space stays dark and volumetric, with soft shafts of light hinting at depth and scale.
+- Narration: The line that began as "Turning raw sequences..." finishes over the first half of this shot. Let the visuals here emphasize that those sequences power multiple use cases.
+- SFX: Gentle, wide whoosh as the camera reveals more of the scene. Underlying music adds a slight harmonic lift to signal a bigger-picture view.
+
+10.0-12.0s (Shot 6 – Logo and tagline hero):
+- Transition: Around 9.5-10.0s, begin simplifying the scene.
+- Camera: Continue the pull-back but have it smoothly morph into a straight-on, centered view of the foundation plane’s central glow. Then slowly push in a tiny bit to lock the logo in the exact center of the frame. Hold steady for the last second.
+- Visuals:
+  - The central region of the foundation plane becomes brighter and more concentrated.
+  - The pillars and RNA universe gradually fade in opacity, becoming faint ghosted elements in the deep background.
+  - The central glow then morphs and sharpens into the "Blank Bio" wordmark, centered on-screen.
+  - Keep the background as a clean, dark gradient (midnight navy to charcoal), with only the faintest hints of out-of-focus RNA strands and data lines to suggest depth and scale.
+  - Under the logo, fade in the tagline: "Foundation models that understand RNA." Align the appearance of the tagline with the final narration line.
+- Lighting: Logo is softly backlit with a subtle cyan edge glow and a clean white core. Minimal lens bloom, just enough to feel premium. Overall high contrast but not harsh.
+- On-screen text: Only the logo and tagline remain. No extra UI or icons.
+- Narration: From 8.0-12.0s, the narrator says, "Blank Bio. Foundation models that understand RNA." Time "Blank Bio" to the moment the logo resolves fully, and "Foundation models that understand RNA" to overlap with the tagline appearance.
+- SFX: As the logo forms, add a refined, warm synthetic chime or tone that feels like a brand signature sound, not too flashy. Music resolves into a stable, uplifting but understated chord as the video ends, fading out at 12.0s with a very short tail.
+
+Throughout, ensure the pacing is tight: immediate hook in the first second, clear transition from chaos to clarity by 3 seconds, convincing visual proof of value from 3-8 seconds, and a strong, simple brand payoff from 8-12 seconds. The overall feeling should be of molecular intelligence and clinical precision, communicating that Blank Bio is the foundation model layer that turns overwhelming RNA complexity into a powerful engine for mRNA drug design and smarter clinical trials.

@@ -1,0 +1,196 @@
+Create a 12-second, 16:9 cinematic product video for a SaaS dev tool called “Floot.” The tone is bold, confident, and high-competence, with a slightly magical but clearly professional feel. Visual style: Apple keynote-style UI animations, Stripe/Linear-level polish, SpaceX mission-control launch metaphor. Mood: futuristic, precise, clean, efficient, with calm power under the hood.
+
+GENERAL VISUAL STYLE AND ENVIRONMENT:
+- Aspect ratio 16:9, landscape, 4K-quality rendering.
+- Color palette: dark base (charcoal and deep navy) with sharp accent colors for Floot: electric teal and soft violet gradients. Error/complexity indicated with muted reds and yellows; clarity and success indicated with clean whites and bright teal/violet accent lines.
+- Environment: An abstract “dev mission control room” made of floating panels and UI surfaces. In the beginning, it feels cluttered and chaotic (many tools). By the end, it becomes minimal and unified around the Floot interface and a live web app.
+- UI style: crisp, modern SaaS aesthetic similar to Stripe/Figma/Linear: rounded rectangles, fine lines, clear typography, subtle gradients and shadows, soft depth-of-field, smooth motion.
+- Camera movement: always smooth, gliding, slightly robotic, with deliberate moves. Fast but controlled transitions from chaos to clarity. One strong punch-in in the hook, and one satisfying pull-back for the final reveal.
+- Lighting: start with high-contrast, volumetric “mission control” lighting emphasizing error states; then transition to clean, soft, studio-like lighting once Floot appears. Add subtle glow trails when the AI builds and deploys.
+- Pacing: 0–3s hook (chaos to Floot control), 3–8s transformation/demo (AI building, fixing, wiring the stack), 8–12s payoff (live, production-ready app and brand lock-up).
+
+AUDIO STYLE:
+- Narration voice: one single narrator, gender-neutral, mid-range voice, professional and assured, with a calm but confident tech-founder tone. No exaggerated excitement; composed and competent.
+- Voice performance: precise diction, slight emphasis on key phrases like “one launch move,” “writes your stack,” “production-ready,” and “Describe it. Floot ships it.”
+- Background music: modern, minimal electronic score. Start with a low mechanical hum and subtle percussive ticks. As Floot appears, introduce a steady, evolving synth pulse with ascending arpeggios, building momentum. At the final reveal, let the music resolve into a warm, satisfying chord with a gentle tail.
+- Sound effects: light error beeps and UI click sounds; satisfying whooshes for transitions; soft chimes for green checks; a subtle ‘online’ ping when the Live · Production badge appears; a gentle slider ‘thunk’ when the launch slider hits the end.
+
+DETAILED SHOT-BY-SHOT WITH TIMING, VISUALS, CAMERA, AUDIO, AND NARRATION:
+
+[0.0–1.3s] SHOT 1 – CHAOTIC CONTROL WALL (HOOK START)
+VISUAL:
+- Show a wide view of a wall of floating UI panels filling the frame on a dark navy background, representing the chaos of modern app shipping.
+- Panels include: a code editor window with red underlines and a large status text reading “Build failed”; a black terminal window streaming white logs with a red ‘ERROR’ line; a CI/CD dashboard with a big red “Failed” status; a database dashboard panel with yellow warning triangles; an auth configuration panel with a yellow alert banner; a cloud console window showing a failed deployment.
+- Thin neon-like cables or glowing lines connect these panels in a tangled web, flickering slightly.
+- The overall feeling is cluttered and overwhelming, but still sleek and high-end.
+CAMERA:
+- Start with a macro close-up gliding quickly across one panel (for example, the code editor showing “Build failed”), then continue the glide across to the terminal, CI panel, DB dashboard, etc., as if we are scanning across a dense mission-control wall.
+- At about 0.9s, rack focus and gently shift the camera’s point of interest to the center of the chaos in preparation for the next shot.
+LIGHTING:
+- High-contrast, volumetric beams of light coming from above, as if from overhead fixtures in a control room.
+- Red and yellow error elements cast faint colored glows.
+- Background is deep navy with subtle gridlines and blurred distant panels.
+AUDIO:
+- Background music: low mechanical hum and subtle, sparse electronic ticks.
+- Sound effects: soft, quiet error beeps from various panels, faint static and log scrolling sounds.
+NARRATION (0.0–2.8s):
+- 0.0–2.8s: Narrator (confident, clear, slightly urgent): “Shipping a real web app shouldn’t mean juggling code, CI, auth, databases, and cloud config.”
+Ensure the narrator starts on the first frame.
+
+[1.3–3.0s] SHOT 2 – FLOOT CARD ARRIVES (HOOK COMPLETES)
+VISUAL:
+- The chaotic wall of panels begins to distort slightly: panels tilt and slide toward the center, as if being magnetically pulled together.
+- Wires and lines twist toward the center cluster.
+- As they compress, a sleek Floot UI card slides in from the right side of the frame and comes to rest dead-center.
+- The Floot card: a dark, glossy rounded rectangle with an electric teal and soft violet gradient accent around its edges. On its surface, only minimal elements for now—hint of a logo and simplified controls.
+- As the Floot card lands in the center, the chaotic background desaturates and blurs, becoming a muted, greyed-out cluster behind the card.
+TEXT OVERLAY:
+- At the bottom of the screen, tasteful small text appears: “Before: Code + 6 tools just to ship a web app”. It should be clean, modern sans-serif, white text with slight transparency.
+CAMERA:
+- Follow the compression with a smooth whip-pan that recenters the composition on the cluster.
+- As the Floot card slides in and snaps into place, execute a quick, controlled punch-in so the card dominates the frame.
+LIGHTING:
+- As Floot enters, the harsh error-red lighting dims.
+- A soft, clean key light appears on the Floot card, with subtle reflections on its glossy surface.
+- Background panels fall into a darker, desaturated blur.
+AUDIO:
+- Sound effects: a satisfying, clean whoosh when the Floot card slides in and snaps into position.
+- Background music: begin to introduce a low, steady synth pulse underneath the hum as the Floot card appears.
+NARRATION:
+- Narrator continues the line seamlessly from shot 1. The timing is still within 0.0–2.8s for the first sentence.
+- 2.8–3.8s: Narrator: “With Floot, it’s one launch move.” Deliver this line right as the Floot card fully stabilizes in center, emphasizing the simplicity.
+
+[3.0–4.2s] SHOT 3 – FLOOT PROMPT AND IDEA INPUT (DEMO START)
+VISUAL:
+- Cut to a tight close-up of the Floot interface, now filling most of the frame.
+- The background is a dark, glossy panel with subtle reflections and faint grid lines.
+- At the top-center is a large prompt field labeled “Describe your app…”.
+- A crisp white cursor blinks, then clicks into the field.
+- The cursor types in a single, clear sentence: “Customer portal with login, billing, and admin dashboard.” The text should appear smoothly and slightly accelerated, not character-by-character slowly; do not feel rushed, but use efficient timing.
+- Below the prompt field is a tall, vertical slider control labeled “Generate & Deploy”. The slider glows with a soft electric teal and violet gradient.
+CAMERA:
+- Slow, confident dolly in as the cursor types, with a very subtle parallax tilt, giving the UI depth and dimensionality.
+LIGHTING:
+- Clean, soft studio lighting from above and slightly to the front.
+- Gentle highlight edges on the slider and prompt field.
+AUDIO:
+- Sound effects: soft keyboard typing sounds as the text appears, then a subtle click when the cursor finishes typing.
+- Background music: the synth pulse becomes a bit clearer and more rhythmic.
+NARRATION (3.8–6.0s):
+- 3.8–6.0s: Narrator: “Describe your app once—Floot writes your stack and fixes the edge cases for you.” Begin this line as the typed idea finishes and the shot transitions to the slider movement.
+
+[4.2–5.3s] SHOT 4 – LAUNCH SLIDER & CODE GENERATION (DEMO LAYER 1)
+VISUAL:
+- The cursor moves to the ‘Generate & Deploy’ vertical slider and grabs the handle.
+- It pulls the slider downward in one decisive, smooth motion to the bottom.
+- When the slider hits the bottom, a subtle flash of light emits from the Floot card.
+- To the left side of the Floot interface, a large code panel slides in from off-screen.
+- Inside this panel, lines and blocks of pseudo-code animate into place rapidly, as though being written by the system.
+- Use big, legible pseudo-code blocks with section headers clearly labeled: “Backend API”, “Auth”, “Database schema”. Code lines should be stylized, not real code, with focus on the section labels.
+- At the bottom of this code panel, a discrete label fades in: “Writes your stack.”
+CAMERA:
+- Maintain the Floot interface at the center of the frame, but zoom out slightly to fit the code panel on the left.
+- Add a micro-orbit movement around the central Floot card, emphasizing a multi-layer control center.
+LIGHTING:
+- The flash on slider completion is a soft teal/white bloom that quickly settles.
+- As code draws in, subtle glow trails follow each line for a fraction of a second.
+AUDIO:
+- Sound effects: a satisfying slider “thunk” when it reaches the bottom, followed by a short ascending whoosh as the code panel slides in.
+- Subtle ‘drawing’ sounds accompany the code appearing, like gentle digital strokes.
+- Background music: add a slight rise in the synth arpeggio to signal progress.
+NARRATION:
+- The narrator’s line “Floot writes your stack” aligns with the code panel filling in. Time the phrase “writes your stack” (within 3.8–6.0s) to visually sync with the bulk of the code appearing.
+
+[5.3–6.6s] SHOT 5 – ERRORS AUTO-FIXED (DEMO LAYER 2)
+VISUAL:
+- Still in a close-up of the UI cluster: the Floot card at center, code panel on left, and perhaps a smaller config panel on the right.
+- Several small red error badges appear over the code and config areas. Each badge is a circular red icon with a white exclamation mark.
+- Next to them, short labels appear, such as “Type mismatch”, “Config missing”, “Timeout”.
+- Immediately after appearing, each red badge glows briefly, then flips into a green circular check icon, and the associated issue text transitions from red to neutral or disappears.
+- A small, clean label fades in at the bottom of the screen: “Finds & fixes issues.”
+CAMERA:
+- Slight push-in toward the areas with error badges, then a minute pull-back as they resolve, keeping motion subtle but purposeful.
+LIGHTING:
+- Each red error emits a faint red glow when it appears.
+- When it resolves to green, the glow becomes a soft green halo that briefly highlights the area before fading.
+AUDIO:
+- Sound effects: tiny error beeps when red badges appear, followed quickly by soft, pleasant chime sounds when they turn green.
+- Background music: continue the building pulse, adding a lightly percussive layer to convey momentum.
+NARRATION:
+- Ensure the phrase “fixes the edge cases for you” from the previous line is still audible during this visual, matching the auto-resolving errors.
+
+[6.6–8.0s] SHOT 6 – STACK WIRED & PRODUCTION DEPLOY (DEMO LAYER 3)
+VISUAL:
+- The UI zooms out slightly to reveal more of the environment around the Floot card.
+- Around the Floot card, five circular nodes appear, arranged in a semi-orbit: “Frontend”, “API”, “DB”, “Auth”, and “Deploy”. Each node has a minimalist icon and a clear label beneath it.
+- Glowing neon lines (electric teal with slight soft violet) begin to animate between the nodes in sequence, forming a coherent pipeline:
+  - First, line from “Frontend” to “API”.
+  - Then, “API” to “DB” and “Auth”.
+  - Finally, both into “Deploy”.
+- The final “Deploy” node brightens and turns into a “Production deploy” node with a subtle ring of light pulsing outward.
+- A small label near the bottom: “Connects & deploys everything.”
+CAMERA:
+- Execute a gentle, slightly robotic dolly back to fit all nodes and the Floot card in the frame.
+- Introduce a slow rotational pan (very subtle) to give a 3D systems-diagram feel.
+LIGHTING:
+- Neon lines glow brightly against the dark background.
+- The “Production deploy” node gets an extra halo of light.
+AUDIO:
+- Sound effects: soft whooshing lines as connections are drawn, and a gentle, satisfying ‘confirm’ tone as the “Production deploy” node pulses.
+- Background music: the rhythm and arpeggio reach a small peak, then hold steady.
+NARRATION (6.0–8.0s):
+- 6.0–8.0s: Narrator: “Then wires frontend, API, data, auth… and pushes straight to production.” Time the phrase “pushes straight to production” to coincide with the “Production deploy” node pulsing.
+
+[8.0–10.0s] SHOT 7 – LIVE APP IN BROWSER (PAYOFF START)
+VISUAL:
+- Hard cut to a clean, minimal scene: a browser window centered against a dark, subtly textured background.
+- The browser window shows a fully designed web app that looks production-ready:
+  - Left sidebar navigation with sections like: “Dashboard”, “Customers”, “Billing”, “Admin”.
+  - Main panel shows a dashboard with a multi-line chart at top, key metrics cards, and a small table of recent activity.
+  - Top-right user avatar and simple header.
+- The UI should be polished and balanced in layout, with whites and light grays, and subtle usage of Floot accent colors in chart lines and highlights.
+- At about 8.6–8.8s, a small badge fades in at the top-right corner of the browser, reading: “Live · Production”. The dot between “Live” and “Production” can glow briefly.
+CAMERA:
+- At the cut (8.0s), hold the camera static for a brief moment to emphasize clarity.
+- At around 8.7s, begin a slow, smooth pull-back, showing a bit more of the surrounding environment.
+LIGHTING:
+- Clean, neutral, soft directional light on the browser.
+- The app’s white surfaces are bright but not blown out.
+- Slight vignette keeps the eye centered.
+AUDIO:
+- Sound effects: a subtle, crisp ‘online’ ping when the “Live · Production” badge appears.
+- Background music: peaks with a warm, resolved chord around 9–10s, then sustains softly.
+NARRATION (8.0–10.0s):
+- 8.0–10.0s: Narrator: “You’re looking at the live, production-ready app that took one prompt.” Deliver this line with calm confidence as the viewer takes in the running app and the Live badge.
+
+[10.0–12.0s] SHOT 8 – HERO WIDE & BRAND LOCK-UP (PAYOFF END)
+VISUAL:
+- As the camera continues its slow pull-back, reveal a unified scene:
+  - The central browser with the live app remains main focus.
+  - Behind and slightly to the side, semi-transparent, simplified infrastructure diagrams and the Floot interface panel are visible as ghosted elements, symbolizing the underlying stack.
+  - The overall composition is center-weighted, with clean verticals/horizontals, and plenty of negative space around the central app.
+- Around 10.2–10.4s, the Floot logo animates in at the bottom-center of the frame, crisp and sharp in electric teal and soft violet.
+- Beneath the logo, the tagline fades in: “Describe it. Floot ships it.”
+- Near the bottom, in smaller text, a micro-line appears: “No code. No stitching. Real production stack.”
+- All motion settles into a calm, stable hero frame by 11.5s, with the last half-second completely steady.
+CAMERA:
+- Continue a slow, smoothing pull-back that ends in a locked-off wide hero shot.
+- No further camera movement past 11.5s.
+LIGHTING:
+- Balanced, calm lighting. The central area (browser and logo) is gently spotlighted.
+- A soft highlight sweep crosses the Floot logo once as it appears, then stops.
+AUDIO:
+- Background music: hold the resolved chord and let it gently decay, maintaining a feeling of confidence and completion.
+- No additional sound effects except possible very subtle UI ambience.
+NARRATION (10.0–12.0s):
+- 10.0–12.0s: Narrator (slight smile in tone, assured): “Floot. Describe it. Floot ships it.” Align the brand name “Floot” with the logo appearance and “Describe it. Floot ships it.” with the tagline text.
+
+FULL NARRATION SCRIPT WITH TIMESTAMPS (FOR AUDIO GENERATION):
+- 0.0–2.8s: Narrator: “Shipping a real web app shouldn’t mean juggling code, CI, auth, databases, and cloud config.”
+- 2.8–3.8s: Narrator: “With Floot, it’s one launch move.”
+- 3.8–6.0s: Narrator: “Describe your app once—Floot writes your stack and fixes the edge cases for you.”
+- 6.0–8.0s: Narrator: “Then wires frontend, API, data, auth… and pushes straight to production.”
+- 8.0–10.0s: Narrator: “You’re looking at the live, production-ready app that took one prompt.”
+- 10.0–12.0s: Narrator: “Floot. Describe it. Floot ships it.”
+
+Ensure the video lasts exactly 12 seconds, with narration, music, and visuals tightly synchronized to the described timings. The overall impression should instantly communicate that Floot replaces coding and stitching together multiple tools with one AI-driven flow that takes you from idea to a real, live, production-ready web app automatically.

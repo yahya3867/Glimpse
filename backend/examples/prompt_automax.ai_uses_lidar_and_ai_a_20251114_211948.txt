@@ -1,0 +1,116 @@
+Create a 12-second, 16:9 cinematic tech product video for Automax.ai, a proptech platform that uses LiDAR and AI agents to deliver fast, transparent real-estate appraisals in under 20 minutes. The style is premium, like an Apple product film mixed with architectural visualization and NVIDIA-style AI visuals: minimal, sharp, data-driven overlays that feel real, not cartoonish.
+
+Overall visual style and environment:
+- Aspect ratio: 16:9 landscape, optimized for web/social and landing pages.
+- Environment: abstract, stylized space. A single modern suburban house sits on a minimalist floating platform, with subtle architectural grid lines beneath. Background is a dark charcoal-to-mid gray gradient. No clutter, no visible sky, just a clean, tech-forward environment.
+- Color palette: neutral base (deep charcoal, off-white, soft gray) with tech accents (LiDAR sweep in cyan/teal, AI/data in electric blue and subtle neon green). Add very gentle warm white highlights to keep the house feeling like a real home.
+- UI aesthetic: premium fintech/proptech UI — thin lines, crisp white typography, cyan and electric blue accents, semi-transparent glass-like panels. Everything aligned to grids with precision.
+- Lighting: high-contrast but controlled. The video begins with the house mostly in shadow; the LiDAR beam acts as a moving key light that reveals geometry and data. By the end, lighting opens into soft global illumination to convey clarity and trust.
+- Camera feel: smooth, gliding, cinematic. No abrupt handheld. One primary dolly-in at the start, then a graceful orbit around the house, ending in a steady hero lockup. Subtle motion only, no chaotic moves.
+
+Audio direction:
+- Narrator voice: single narrator, gender-neutral, mid-range voice. Tone is confident, precise, and trustworthy with a calm intensity — similar to an Apple or high-end fintech product launch. No hype; controlled and authoritative.
+- Background music: minimal, modern electronic underscore. Low, pulsing synth bass with soft plucks and airy pads. Tempo around 90–100 BPM but with a steady, unhurried pulse. The music should build slightly in intensity from 0–8 seconds, then resolve into a clear, open chord from 10–12 seconds. No vocals.
+- Sound design: high-tech but subtle. Use soft digital glitches, scan sweeps, UI clicks, and timer ticks. All sounds should be clean and premium, never cartoony.
+
+Detailed, time-coded visual and audio description including narration, SFX, and music:
+
+0.0–1.2s — SHOT 1: Old chaos vs new clarity (hook)
+- Visuals: Wide split-screen filling the frame.
+  - Left side (about 55% of the width): a cluttered office-like surface with a messy stack of printed property appraisal reports. Pages are slightly askew with red question marks scribbled on them. Above the papers, a semi-transparent spinning loading icon hovers. Behind, an analog wall clock is visible, its second hand ticking with exaggerated slowness.
+  - Right side (about 45% of the width): a dim, unlit 3D modern suburban house model on a minimalist rectangular platform. The house is in semi-silhouette, barely revealing its shape against a deep charcoal gradient background. Faint, thin grid lines hint at an architectural coordinate system under the platform.
+- Camera: Static wide shot with a very subtle micro-tilt and parallax to make it feel alive.
+- Lighting: Left side has slightly harsh, flat office lighting; whites are slightly warm, giving a dated feel. Right side has low-key cool lighting; the house edges just catch a faint rim light.
+- Text overlay: No large text yet; we rely on the visual chaos vs calm contrast.
+- Narration (voiceover): At 0.0s, narrator begins, clear and upfront.
+  - 0.0–1.5s: Narrator says, "Manual property appraisals are slow, opaque, and messy."
+- Sound effects: Soft rustle of papers and a subtle ticking clock on the left. A faint looping loading-icon whirr. On the right, near silence, maybe a low-tech ambient hum.
+- Music: A low, subtle synth pad fades in under everything, with a slow, muted bass pulse every half-second, hinting at analytical precision.
+
+1.2–3.0s — SHOT 2: Old system deleted, house becomes hero, LiDAR readies
+- Visuals: The left chaotic side begins to digitally glitch and dissolve away.
+  - At 1.2s, horizontal and vertical scan lines sweep over the left side; the papers, loading icon, and clock pixelate and disintegrate into tiny squares that drift away and fade into the background.
+  - As the left side disappears, the right side expands to fill the full 16:9 frame. The house, now occupying the center-left portion of the frame, is framed in a 3/4 isometric view (we see front and one side, slightly from above). The platform is clean with precise, faint grid lines.
+  - At approximately 1.6s, bold, crisp white text appears centered near the top of the frame: "Today's appraisals are guesswork." The font is a clean, modern sans-serif.
+  - Around 2.2s, at the left edge of the frame, a razor-thin cyan/teal LiDAR beam line appears. It glows softly and emits a faint, volumetric light in the direction of the house, but has not yet begun to move.
+- Camera: Smooth dolly-in from wide to a slightly closer medium-wide that keeps the entire house in view but now makes it the clear hero subject in the center of the frame, with generous negative space on the right for future UI.
+- Lighting: As the old side glitches away, the house receives a subtle boost of cool key light from above and slightly to the left. Edges of roof, walls, and windows become more defined, but the house is still mostly solid and unscanned.
+- Narration:
+  - 1.5–3.0s: Narrator says, "It's time for a new standard."
+- Sound effects: A refined digital glitch sound as the left side dissolves — think soft, granular bits, not harsh distortion. A gentle whoosh as the camera glides in. A faint, high-tech "power up" tone when the LiDAR line appears at 2.2s.
+- Music: The underlying synth pad becomes slightly brighter. A soft high-frequency arpeggio begins to hint at upcoming automation and intelligence.
+
+3.0–5.0s — SHOT 3: LiDAR sweep reveals hidden value structure
+- Visuals: The LiDAR beam animates across the house.
+  - At exactly 3.0s, the cyan beam at the left edge begins moving horizontally across the frame, sweeping over the house from left to right. It has a soft glow and a faint volumetric cone of light, almost like an X-ray scanner.
+  - Wherever the beam passes over the house, it transforms from a shaded solid surface to a crisp, semi-wireframe look. Edges and corners gain thin cyan outlines. Surfaces retain a neutral gray fill but with a subtle grid pattern, signaling measurement and precision.
+  - Electric blue data nodes appear at key structural points: on the roof peak and corners, at window frames, at the front door, along the lot boundary around the platform. Small, thin glowing lines connect these nodes in a network.
+  - Minimalist icons — tiny, floating symbols representing neighborhood, amenities, and market context — appear in the mid-background: a small building cluster, a transit icon, a 'price tag' icon. They glow gently in blue and teal.
+- Camera: As the beam moves, the camera executes a smooth orbit from a left-front 3/4 view to a right-front 3/4 view, always keeping the house centered. The motion is slow and elegant, matching the duration of the beam sweep so they feel synchronized.
+- Lighting: The LiDAR beam acts as a moving key light. When it passes over each facade, that area brightens with a cool cyan highlight, then settles into a balanced, softly lit look once the beam moves on.
+- Narration:
+  - 3.0–6.0s: Overlapping this entire sequence, narrator says, "Automax.ai uses LiDAR and AI agents to scan every detail and build a living valuation model."
+- Sound effects: A smooth, high-tech scanning sound synchronized with the beam — a rising and falling digital sweep with subtle sparkling particles. Quiet, tiny "ping" sounds as data nodes appear on the house. Very soft UI chimes as background icons fade in.
+- Music: The track adds a gentle rhythmic element — light synth plucks in sync with the data node appearances, but still subtle under the voice. The harmonic atmosphere grows slightly more open and optimistic.
+
+5.0–8.0s — SHOT 4: Valuation factors and value lock-in
+- Visuals:
+  - Around 5.0s, with the house now fully scanned and semi-wireframed, semi-transparent rectangular UI panels begin to slide into view around it. Each panel looks like a thin glass sheet with a slight glow and contains minimal charts, graphs, or text.
+  - Panels are labeled (in white text with a subtle cyan underline): "Structure", "Market comps", "Neighborhood", "Renovations", and "LiDAR scan". Each panel sits near the relevant part of the house: "Structure" near walls and roof, "Market comps" floating slightly above and to the right, "Neighborhood" near the background icons, "Renovations" near the front entry and maybe a highlighted window, "LiDAR scan" near the original beam path.
+  - Thin, glowing connector lines link each panel back to its associated data nodes on the house.
+  - From 6.0–7.0s, these panels smoothly slide, rotate slightly, and converge toward a single, larger central panel to the right of the house. They stack and merge, their edges aligning perfectly, forming one unified "Valuation Engine" panel with that label at the top.
+  - Inside this central panel, a numeric property value animates in a count-up motion: starting near "$742,300" and quickly rising to "$842,500", then softly easing to a stop and snapping crisply at "$842,500".
+  - A subtle glow halo appears around the final value for a fraction of a second to emphasize that it is locked in.
+- Camera: The orbit continues gently but slows as the panels converge. As the central panel forms and the number animates, the camera executes a slight push-in toward the right side of the frame where the panel sits, while still keeping the house fully visible on the left.
+- Lighting: By this point, the entire scene has comfortable soft global illumination. The house appears clear and well-defined; the UI panels emit their own subtle cyan/blue glow.
+- Narration:
+  - 6.0–8.0s: Narrator continues, "So you see exactly how every dollar is calculated."
+- Sound effects: Soft whooshes as each panel slides into place. Gentle digital clicks or taps as they merge into the central panel. When the final value locks at "$842,500", a precise, satisfying UI "click" or chime sounds.
+- Music: The music swells slightly with a brighter chord or harmonic shift right as the value locks in. Still minimal, still under the voice.
+
+8.0–10.0s — SHOT 5: Time compression and speed payoff
+- Visuals:
+  - At 8.0s, directly below the central valuation panel, a circular timer graphic appears. It initially shows a full 24-hour dial label around it, with small text '24h' and fine tick marks.
+  - From 8.1 to 9.0s, the timer animates: the outer ring spins rapidly and then collapses inward, visually compressing the time scale. Small numeric labels around the ring quickly count down from '24h' to '8h' to '1h'.
+  - As the ring contracts, it morphs smoothly into a smaller, clearer ring labeled '20:00'. Then from about 9.0 to 9.5s, the '20:00' ring softly transforms into a solid, pill-shaped badge just beneath the valuation value, reading "< 20 min" in crisp white text.
+  - The badge has a subtle teal glow and a thin neon green edge to highlight speed.
+- Camera: A gentle push-in centers more on the panel and the timer/badge, while the house remains visible in the left portion of the frame.
+- Lighting: The background brightens slightly more, especially behind the panel and timer, suggesting revelation and speed.
+- Narration:
+  - 8.0–10.0s: Narrator says, "From days of waiting... to under twenty minutes."
+- Sound effects: A rapid, but soft ticking or spinning sound synchronized with the timer ring as it compresses, then a clean digital "confirm" tone when the "< 20 min" badge appears.
+- Music: The beat subtly emphasizes this moment with a slightly stronger bass pulse on the transform into the badge, then begins to simplify to make room for the closing line.
+
+10.0–12.0s — SHOT 6: Final hero lockup with breakdown and branding
+- Visuals:
+  - At 10.0s, the composition eases into the final hero lockup. The camera pulls back just a touch to reveal the entire house, platform, and expanded UI clearly.
+  - The valuation panel on the right subtly expands vertically, revealing a simple breakdown list of factors under the "$842,500" value:
+    - Line 1: "Home condition 35%"
+    - Line 2: "Market comps 40%"
+    - Line 3: "Neighborhood 15%"
+    - Line 4: "Upgrades 10%"
+  - Each line has a thin connector line reaching out and then curving gracefully back to a corresponding highlighted area on the house (e.g., Home condition to walls/roof, Market comps to a small graph icon, Neighborhood to background icons, Upgrades to the front entry or a highlighted window).
+  - At the top-right or bottom-right corner of the frame, the "Automax.ai" logo appears in a clean, white wordmark with a small cyan geometric icon. Beneath the logo, the tagline appears: "Fast, transparent real-estate appraisals in under 20 minutes."
+  - The house sits centered-left, clean and fully illuminated, with its semi-wireframe details visible but not overpowering. Platform grid lines remain faint and precise.
+  - The background gradient has shifted to a brighter mid-gray, with very subtle vignetting at the corners for focus.
+- Camera: Static hero shot with a tiny amount of micro-parallax to keep it feeling premium and alive.
+- Lighting: Soft, even global illumination. Slight warm highlights on the house to give a sense of livable reality, while UI stays cool and technical.
+- Narration:
+  - 10.0–12.0s: Narrator says, "Automax.ai — fast, transparent real-estate appraisals in under twenty minutes."
+- Sound effects: Minimal in this final moment: a soft UI hover shimmer as the breakdown lines appear. Subtle emphasis chime when the logo fully resolves.
+- Music: The track resolves into a clear, open chord with the top end slightly brightened. The rhythmic elements simplify so the last line is clearly intelligible. The music then gently fades right at 12.0s.
+
+Important narration timing summary (to be followed precisely):
+- 0.0–1.5s: "Manual property appraisals are slow, opaque, and messy."
+- 1.5–3.0s: "It's time for a new standard."
+- 3.0–6.0s: "Automax.ai uses LiDAR and AI agents to scan every detail and build a living valuation model."
+- 6.0–8.0s: "So you see exactly how every dollar is calculated."
+- 8.0–10.0s: "From days of waiting... to under twenty minutes."
+- 10.0–12.0s: "Automax.ai — fast, transparent real-estate appraisals in under twenty minutes."
+
+Overall mood and pacing:
+- The pacing is smooth and deliberate. No frame feels rushed, but every second reveals meaningful transformation from chaos to clarity.
+- The mood is sleek, analytical, and quietly confident, with a calm sense of inevitability about automation becoming the new standard for real-estate pricing.
+- The video must clearly communicate, purely through visuals and narration, that Automax.ai replaces messy, slow, opaque appraisals with fast, precise, explainable valuations using LiDAR and AI.
+
+End the video exactly at 12.0 seconds with the hero lockup of the house, valuation breakdown, and Automax.ai logo and tagline on screen.

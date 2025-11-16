@@ -1,0 +1,102 @@
+**Wardstone - The Ultimate Space Neighborhood Watch**
+12-second "wow, that's actually brilliant" space defense video
+
+**VIBE:**
+Cool, confident, and kinda badass - but not trying too hard. Think SpaceX meets sci-fi movie, but make it informative and slightly fun. We're protecting Earth, not auditioning for a Michael Bay film.
+
+Overall visual design:
+- Aspect ratio: 16:9, landscape, UHD-level crispness.
+- Color palette: deep space navy and charcoal for background; Earth in dark, subdued tones; threats in intense red/orange with glowing trails; Wardstone system elements in confident electric blue and cool white, with metallic gray satellites.
+- Lighting: low-key, high-contrast space lighting. Hard rim light from the sun along Earth’s limb and on satellite edges. Threats emit harsh, ominous red/orange glow. Wardstone activations and interceptors emit clean electric-blue and blue-white light pulses that feel precise and controlled.
+- Environment: Low Earth orbit above the continental US and allied territories. Earth is partly on the night side to highlight city lights and missile signatures. Sparse starfield; no clutter.
+- Composition: Strong, graphic silhouettes and clean geometry. Earth anchored in lower third or center depending on shot. Threats enter from frame edges on diagonal trajectories. Wardstone satellites form clean arcs and orbital grids. Use missile trails and orbital paths as leading lines, guiding the eye from threats to intercept and then to the logo.
+- Camera language: Smooth, deliberate orbital moves with one rapid, kinetic push-in during the intercept. Start with a slow, ominous glide toward Earth, then tilt up and accelerate into action as satellites engage, then pull back to a stable, reassuring hero frame.
+- Background music: Subtle but cinematic, minor key, low synth pads and deep pulses, building slightly in intensity through the intercept, then resolving into a confident, steady tone in the final hero shot. Avoid bombastic orchestral; keep it restrained, precise, and mission-critical.
+- Sound design: Tight, minimal, high-tech. No loud explosions in space—sounds are stylized and slightly muted, as if heard through mission control systems. Use soft electronic rumbles, HUD beeps, subtle whooshes, and a sharp, contained impact for the kinetic intercept.
+- Narrator voice: Single narrator, English, male or female, with a professional, calm, mission-briefing tone. Warm but firm, confident, with clear enunciation. Slight gravitas, like a Pentagon briefing or high-end defense-tech launch video.
+
+TIMELINE AND SCENES (with narration and audio):
+
+[0.0–1.5s] SHOT 1 – SILENT VULNERABILITY
+- Visuals: Ultra-wide macro view of Earth from space. The frame is mostly deep navy-black space. Earth sits in the lower third, slightly to the right, with the night-side facing camera. The continental US and allied regions are dimly visible as soft clusters of warm city lights. The planet’s limb is outlined by a hard, cool rim light from the sun, revealing a thin blue atmospheric glow. There are very few stars: just a sparse scattering of tiny points.
+- Action: For the first second, there are no threats—only a tense, quiet shot of Earth, emphasizing vulnerability. Around 0.8–1.0s, faint red glows begin to appear at the upper right edge of the frame, hinting at incoming missiles but not yet fully developed arcs.
+- Camera: Slow, ominous push-in from very wide. The camera drifts gently from upper-left toward center as it moves closer, maintaining Earth’s placement in the lower third.
+- Text overlay: At about 0.8s, small, discreet white text fades in at the lower-left corner: “Hypersonic and ballistic threats…” It stays on screen until about 2.3s, then fades out.
+- Lighting: Earth is mostly in darkness with a sharp rim of sunlight. City lights are warm but subdued, not overly bright.
+- Audio – music: Low, atmospheric synth pad, subtle rumble, evoking tension. Very soft at first, then slowly building.
+- Audio – sound effects: Almost no effects yet, just a faint low-frequency hum to underscore tension.
+- Narration (0.0–1.5s): Narrator, calm and authoritative, says clearly: “Hypersonic and ballistic threats don’t wait.” The line should begin at about 0.2s and complete by 1.5s.
+
+[1.5–3.0s] SHOT 2 – INCOMING THREATS
+- Visuals: Same general Earth view, slightly closer. From the upper right and upper left edges of the frame, multiple red-orange missile trails now streak into the scene. They form elegant but menacing ballistic arcs curving toward the US and allied territories. Each arc is a glowing red/orange line with a hotter, brighter tip, and slight heat distortion shimmering around it.
+- Action: More arcs appear over this duration, suggesting a coordinated, multi-vector attack. The arcs gradually converge toward North America.
+- Camera: Continued slow push-in, with a slight acceleration to increase urgency. Earth remains in the lower third. The camera may very subtly tilt to follow the arcs as they curve downward.
+- Lighting: The red/orange missile trails cast faint reflections and glows on the thin upper atmosphere, highlighting the curvature of Earth. The rest of space remains dark.
+- HUD details: Subtle semi-transparent red brackets appear briefly around some arcs, as if a sensor has detected them. Keep HUD minimal, low-opacity, and technologically plausible.
+- Text overlay: The “Hypersonic and ballistic threats…” text remains on-screen until about 2.3s and then fades out.
+- Audio – music: The synth pad becomes slightly more intense; add a low, pulsing bass hit around 2.0s.
+- Audio – sound effects: Soft, stylized whoosh sounds as the missile arcs appear, with subtle rising electronic tones representing detection.
+- Narration (1.5–3.0s): Narrator continues, with a measured pace: “And they don’t give second chances.” This line should start around 1.6s and end by 3.0s.
+
+[3.0–4.5s] SHOT 3 – ORBITAL REVEAL, WARDSTONE AWAKENS
+- Visuals: The camera now tilts upward away from the descending red arcs to reveal the orbital layer above the Earth. The threats remain visible lower in the frame, out of focus or slightly blurred, while the upper portion reveals dark, sparse space where Wardstone satellites reside.
+- Action: As the camera settles into the orbital layer, Wardstone satellites begin to ‘come online.’ Each satellite is a sleek metallic-gray object with compact bus and radiating panels or antenna structures, designed with realistic defense-tech style. Around each satellite, a subtle electric-blue status ring or halo flicks on, one by one, creating a sense of activation. Thin electric-blue lines begin to connect satellites into a clean geometric net arching over the region below.
+- Camera: Controlled tilt upward transitioning into a smooth lateral orbital move, gliding along the orbital plane so multiple satellites pass through frame along a gentle arc.
+- Lighting: Satellites are rim-lit by the sun from one side, with sharp highlights on edges and deep, inky shadows. Electric-blue activation glows and small HUD-style rings add controlled light accents.
+- HUD details: Minimal, clean overlays—thin blue arcs connecting satellites, small blue dots, faint reticle shapes indicating tracking solutions.
+- Audio – music: Add a subtle high-frequency layer, like a precise, technical arpeggio, as the satellites activate.
+- Audio – sound effects: Soft, crisp electronic chimes or beeps as each satellite lights up, plus a gentle sweeping scan sound as the orbital net forms.
+- Narration (3.0–5.0s): As satellites activate, the narrator says: “Wardstone turns orbit into an active shield…” Begin this line around 3.1s and complete it by 5.0s, with the key phrase “active shield” landing visually as the network is clearly formed.
+
+[4.5–6.0s] SHOT 4 – SATELLITE CLOSE-UP & INTERCEPTOR DEPLOYMENT
+- Visuals: Cut to a medium close-up of a single Wardstone satellite in three-quarter view, floating above the Earth’s limb. The red threat trajectory is seen below and ahead, a glowing arc in the distance. Around the satellite, a blue targeting reticle locks onto that incoming arc, and a thin blue trajectory line is drawn from the satellite to a predicted intercept point.
+- Action: A panel on the satellite slides open with subtle mechanical motion. A compact interceptor module emerges from a bay, then thrusts forward and ignites. It becomes a concentrated blue-white dart with a bright core and a tight, tapering trail, accelerating rapidly along a precise curved path toward the incoming red projectile.
+- Camera: Smooth push-in toward the satellite as the interceptor deploys, then the camera begins to track the interceptor slightly off-center as it accelerates away, maintaining the satellite in partial view for a beat before the interceptor dominates frame.
+- Lighting: Hard sunlight catches the satellite surfaces; cool reflections. The interceptor’s blue-white glow adds a high-tech highlight, with very subtle bloom.
+- HUD details: A small, clean blue HUD overlay near the satellite shows vector lines, a countdown-like indicator, and maybe a simple numeric marker for velocity. Keep it minimal and realistic.
+- Audio – music: Music swells slightly, with a firmer rhythmic pulse as action begins.
+- Audio – sound effects: A crisp, mechanical slide/clack as the bay opens, followed by a tight, rising whoosh as the interceptor launches, plus a higher-pitched electronic tone as the targeting solution locks.
+- Narration (continues 3.0–5.0s and 5.0–7.5s): The tail of the previous line (“…into an active shield…”) can overlap with the start of this shot. Then, around 5.0s, the narrator continues: “…with satellites that hunt and kinetically intercept in space—before impact.” Ensure “kinetically intercept in space—before impact” lands as we see the interceptor traveling toward the target.
+
+[6.0–8.0s] SHOT 5 – KINETIC INTERCEPT
+- Visuals: Now move into a tighter, dynamic shot following the blue-white interceptor from behind or slightly off to the side as it streaks through space. The red projectile grows larger ahead. The Earth’s curvature is faintly visible far below as a dark, bluish arc, emphasizing altitude.
+- Action: The interceptor closes rapidly. At the moment of intercept, there is a sharp, contained kinetic impact: the red projectile is struck and instantly breaks apart into small glowing fragments, which quickly lose energy and fade into darkness. There is no big fireball or Hollywood explosion—just a precise, surgical neutralization. Some of the fragments show brief red embers before extinguishing.
+- Camera: High-speed tracking shot with the interceptor, then a micro-shake and slight overshoot at impact to sell the force, before quickly stabilizing. After the impact, the camera drifts slightly, showing the dissipating fragments against the backdrop of Earth and space.
+- Lighting: The interceptor’s blue-white glow flares at impact for a split second. The red object’s glow vanishes almost immediately as it fragments, leaving only faint embers. The overall scene remains dark and contrasty.
+- HUD details: A small blue ring briefly appears at the impact point, with very small text like “NEUTRALIZED” flashing for a fraction of a second before fading.
+- Text overlay: Around 4.5–6.5s, at the bottom center, small unobtrusive text appears: “Space-based interceptors. Kinetic defense.” It should fade in around the deployment and be gone by roughly 7.0s.
+- Audio – music: Add a brief musical accent or hit at the moment of impact, then maintain a steady, resolved tone as fragments fade.
+- Audio – sound effects: A focused, high-tech impact sound—short, sharp, like a metallic crack combined with a digital ‘ping’—without explosive boom. Very faint debris fizz or sparkle as fragments fade.
+- Narration (5.0–7.5s): Ensure the line “…with satellites that hunt and kinetically intercept in space—before impact.” is fully delivered by about 7.5s, aligning “before impact” roughly with the intercept moment.
+
+[8.0–12.0s] SHOT 6 – HERO SHOT: STONE WALL IN SPACE & BRAND LOCK
+- Visuals: The camera pulls back into a wide, majestic hero shot of Earth. The US and allied territories are centered or slightly to the right. Around these regions, a luminous electric-blue orbital ring of Wardstone satellites forms a protective ‘stone wall’ in space. Each satellite is a small bright node, with its halo connecting visually into a continuous arc or ring. The earlier red missile trajectories are now gone or visible only as faint, dissipating remnants far above the atmosphere. Subtle HUD arcs and contours indicate coverage zones over the US and allied regions.
+- Action: The orbital ring glows steadily, not pulsing wildly—conveying stability and control. Earth slowly rotates beneath. No new threats appear. Around 8.2s, a bold but simple headline fades in: “Turning space into a shield.” Around 9.0s, the Wardstone logo appears in the bottom-right, with the tagline “WARDSTONE — Space-based missile interception.” beneath it.
+- Camera: Smooth backward dolly and slight upward tilt to place Earth in the center of frame. The motion eases and becomes nearly static by 10.5s, holding steady for branding. A tiny parallax drift may remain for cinematic quality, but very subtle.
+- Lighting: Earth is half in night, half in pre-dawn. The orbital ring emits a controlled electric-blue glow that gently illuminates the upper atmosphere. City lights are present but subtle; the focus is on the shield arc and logo. The color contrast between dark space, blue shield, and faint warm land lights feels clean and high-tech.
+- HUD details: Very faint, low-opacity blue coverage arcs across North America and allied territories. Minimal labels; avoid clutter.
+- Audio – music: The score transitions into a confident, steady, low pulse with a subtle, uplifting harmonic shift—conveying resolved protection and readiness. It should feel like a secure ‘mission accomplished’ state.
+- Audio – sound effects: Minimal in this final shot. Maybe a soft, rising electronic ‘lock’ tone when the ring completes and the logo appears.
+- Narration (7.5–10.0s and 10.0–12.0s): Over this hero shot, the narrator delivers the closing lines in a measured, confident cadence:
+  - 7.5–10.0s: “Protecting the United States and its allies…” (Start around 7.6s, end by about 9.4s.)
+  - 10.0–12.0s: “…by turning space into a shield. Wardstone.” (Start around 9.6–9.8s so the word “Wardstone” is clearly heard by ~11.5s, with a brief quiet tail to 12.0s.)
+
+FULL NARRATION SCRIPT WITH TIMING (for audio generation):
+- 0.2–1.5s: Narrator (calm, resolute, technically authoritative): “Hypersonic and ballistic threats don’t wait.”
+- 1.6–3.0s: Narrator: “And they don’t give second chances.”
+- 3.1–5.0s: Narrator: “Wardstone turns orbit into an active shield…”
+- 5.0–7.5s: Narrator: “…with satellites that hunt and kinetically intercept in space—before impact.”
+- 7.6–9.4s: Narrator: “Protecting the United States and its allies…”
+- 9.6–11.5s: Narrator: “…by turning space into a shield. Wardstone.”
+
+Voice style notes:
+- The narrator should sound like a seasoned defense or aerospace professional presenting a mission-critical system. No hype, no marketing fluff—just confident, precise delivery.
+- Pace is steady and deliberate, with tiny pauses around key phrases like “active shield,” “kinetically intercept,” and “before impact.”
+
+On-screen text summary:
+- 0.8–2.3s: Lower-left, small, unobtrusive: “Hypersonic and ballistic threats…”
+- 4.5–7.0s: Lower-center, small: “Space-based interceptors. Kinetic defense.”
+- 8.2–11.5s: Headline near upper-center or center-left: “Turning space into a shield.”
+- 9.0–12.0s: Bottom-right: Wardstone logo, with tagline beneath: “WARDSTONE — Space-based missile interception.”
+
+Overall, the pacing must adhere strictly to 12 seconds total, with tight, efficient cuts. The visual storytelling should instantly communicate: there is a high-stakes missile threat, Wardstone’s orbital constellation forms a defensive grid, satellites launch kinetic interceptors that destroy threats in space before they reach Earth, and Wardstone thereby ‘turns space into a shield’ for the United States and its allies. Maintain a credible, engineered, defense-tech feel throughout—no cartoonish effects, no exaggerated explosions—just precise, high-intelligence, orbital defense in action.

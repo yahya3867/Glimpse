@@ -1,0 +1,159 @@
+Generate a 12‑second, 16:9 cinematic defense-tech video with synchronized narration, sound effects, and background music, based on the following detailed description. The tone is confident, mission-critical, precise, and no-drama lethal. The mood is high-stakes but controlled, calm under pressure, technologically superior, disciplined and professional. Visual style is a blend of polished live-action or high-fidelity CG and clean tactical HUD overlays, similar to modern Anduril/Palantir defense-tech launch videos combined with SpaceX-style clarity. Color palette: deep navy, steel grey, muted olive, with high-contrast electric cyan for defensive fields and hostile red/orange for enemy drones.
+
+GENERAL AUDIO DIRECTION:
+- Narrator: One male or female voice, neutral American accent, low to mid-register, calm, confident, professional, like a DoD briefing officer. Delivery is measured and precise, not hyped. No melodrama.
+- Background music: Subtle, modern, minimalist cinematic score. Low, pulsing synth bass and light percussive ticks. Slow build from tension to controlled resolution. Keep it low enough that narration is always clearly intelligible.
+- Sound design: Tight, realistic military-tech sounds with restraint: faint UI beeps, soft whoosh for drones, controlled missile launch and flight, gentle HUD activation pings. No exaggerated explosions. Emphasize clean, precise lethality.
+
+NARRATION SCRIPT WITH TIMING (MUST BE FOLLOWED EXACTLY):
+- 0.0-2.8s: Narrator says, clearly and calmly: "Your convoys and patrol boats are exposed to drone swarms."
+- 2.8-6.2s: Narrator says: "Perseus turns every truck, boat, and team into a man-portable counter-drone launcher — shoulder, fire, forget."
+- 6.2-12.0s: Narrator says: "Now every asset carries its own drone shield in a tube. Perseus Defense — scalable counter-UAS for every truck, boat, and convoy."
+
+Ensure the narration is tightly synchronized with the described visuals.
+
+SHOT 1 — TACTICAL HOOK (0.0-1.5s):
+Visuals:
+- Start on a wide, top-down tactical map covering a stylized region that suggests CONUS and nearby coastal waters. Background is deep navy with a faint grid pattern. Thin cyan lines show highways and a coastline with a river or coastal shipping lane.
+- Display several blue rectangular icons moving slowly along a highway (a ground convoy of trucks/MRAP-style vehicles) and one blue boat icon moving along the river or coastal route. Label them subtly in cyan text: "CONVOY 1" and "PATROL 3" in small, clean fonts.
+- From the edges of the frame, many small red-orange triangular drone icons begin streaming inward along curved paths toward both the convoy and the boat. Their movement is smooth and coordinated, conveying a swarm attack.
+- Minimal HUD elements: soft cyan range rings around the central region, and a few thin red arrows pointing toward the assets labeled "INBOUND".
+
+Camera:
+- 16:9 landscape. Start from a wide regional view and perform a smooth, slow push-in toward the center where the convoy and boat are located. The motion feels deliberate and militarily precise.
+
+Lighting and color:
+- The UI glows against the dark background. Grid lines and blue icons emit a faint cyan glow. Red-orange drone icons are bright and slightly flickering, drawing attention.
+
+Audio:
+- Music: Low tension synth pad and a soft pulsing bass start immediately at 0.0s.
+- SFX: Subtle UI hum, faint radar sweep sound, and a very soft whoosh as drone icons move toward the assets.
+- Narration (0.0-2.8s) begins over this shot: "Your convoys and patrol boats are exposed to drone swarms."
+
+Text overlay:
+- At about 0.5s, fade in small, clean white text at upper-left: "Vulnerable to drone swarms." Keep it simple and unobtrusive. Fade it out by around 2.0s.
+
+SHOT 2 — TACTICAL THREAT INTENSIFIES (1.5-3.0s):
+Visuals:
+- Continue the top-down map but now closer to the convoy and boat. The red-orange drone icons thicken into a ring around the ground convoy and curve toward the boat. Some drones cross a faint cyan "engagement line" drawn around the assets.
+- Around each blue asset icon, show a soft, pulsing red ring or halo indicating high threat and no current protection.
+- A small red timer in one corner ticks down a few frames (e.g., "00:07" to "00:06"), implying time pressure without drawing too much attention.
+
+Camera:
+- Continue the push-in from Shot 1, slightly accelerating. At about 2.7s, add a very slight snap-zoom toward the convoy right before cutting to live-action, hinting urgency.
+
+Lighting and color:
+- Maintain dark navy background and cyan lines. Heighten the red-orange glow of the drones and threat rings to emphasize vulnerability.
+
+Audio:
+- Music: Slight increase in tension—add a soft, ticking high-hat or electronic click in rhythm with the timer.
+- SFX: Quiet escalating drone whooshes and a subtle rising electronic tone.
+- Narration continues same line, still clearly audible over this.
+
+SHOT 3 — LIVE-ACTION TRANSITION: OPERATOR WITH PERSEUS (3.0-4.5s):
+Visuals:
+- Hard cut from the tactical map to a real-world or high-fidelity CG desert environment.
+- Show a medium shot at shoulder level of a soldier/operative standing on the rear of an MRAP-style truck or next to a tactical pickup in a small desert convoy. The operator wears muted olive and tan tactical gear (no nation-specific markings) and calmly shoulders a Perseus launcher.
+- The Perseus launcher is a sleek, matte steel-grey tube with clean, minimal industrial design. It has a compact optic and a small, simple interface panel on the side with a cyan status indicator.
+- The operator moves with practiced precision: raising the tube to the shoulder, aligning it with the sky where drones would be, maintaining a stable stance.
+
+Camera:
+- 16:9, medium shot from the operator’s front-left side, framing the launcher prominently using rule-of-thirds. Slight right-to-left parallax motion from a slow dolly to keep the shot dynamic but controlled.
+
+Lighting and color:
+- Time of day: late afternoon or blue hour. Hard, directional light from one side creates crisp shadows along the tube and armor, emphasizing form.
+- Background: subtle volumetric dust in the air catching the light, slightly blurred convoy vehicles behind the operator.
+
+Audio:
+- Music: Maintain the tense but controlled bed.
+- SFX: Desert wind low in the mix, distant engine idling, quiet gear rustle as the operator raises the launcher.
+- Narration (new line starts at 2.8s, continues here): "Perseus turns every truck, boat, and team into a man-portable counter-drone launcher — shoulder, fire, forget."
+
+Text overlay:
+- At around 3.2s, briefly show small text near the lower-right of the frame: "Man-portable counter-drone" in clean white font. Fade by ~4.2s.
+
+SHOT 4 — PRODUCT BEAUTY CLOSE-UP (4.5-5.5s):
+Visuals:
+- Cut to a tight close-up of the Perseus launcher on the operator’s shoulder. Focus on the optic and simple interface panel.
+- Show a minimal UI element on the tube: a small rectangular area or indicator that glows cyan and changes from "ARM" to "READY". Include a subtle overlaid HUD label near it reading "PERSEUS COUNTER-DRONE" in thin cyan text.
+- The operator’s gloved hand is near a single, clear firing control or trigger.
+
+Camera:
+- Slow, precise push-in toward the indicator and optic, stopping just as "READY" appears.
+
+Lighting and color:
+- Strong key light rakes across the launcher surface, creating crisp edges and reflections that highlight the hardware quality. Background bokeh in muted desert tones.
+
+Audio:
+- SFX: Soft UI confirmation beep as the status changes to "READY".
+- Music: Add a subtle high, steady synth tone to underscore readiness.
+
+Text overlay:
+- Mid-roll text appears briefly near center-bottom in bold, clean white: "Shoulder. Fire. Forget." Fade in around 4.7s, fade out by 5.8s.
+
+SHOT 5 — LAUNCH AND DRONE NEUTRALIZATION (5.5-7.0s):
+Visuals:
+- Show the operator firing the Perseus. The camera is slightly behind and to the side, capturing the launcher and the missile exiting the tube.
+- At trigger pull, a contained, realistic muzzle flash and short rocket exhaust plume appear, pushing a missile forward.
+- Immediately cut to a stylized mid-air view: the missile, sleek and white/grey with small fins, flies along a trajectory toward a cluster of semi-transparent red drone icons overlaid on the sky. A translucent HUD overlay overlays the sky: cyan lines, distance markers ticking down, and a small label "DRONE SWARM".
+- As the missile reaches the cluster, the red drone icons rapidly wink out one by one and are replaced by small fading X marks or blips. No large explosion—just a clean flash or pulse at the impact point and drones disappearing.
+
+Camera:
+- At the moment of launch, the camera experiences a slight, controlled recoil backward, then cuts to a forward-tracking shot behind the missile, giving a dynamic but not frantic sense of motion.
+
+Lighting and color:
+- Blue-hour sky backdrop, subtle clouds. The missile exhaust is warm yellow-orange, contrasting with the cool blue environment. HUD elements are bright electric cyan and red.
+
+Audio:
+- SFX: Short, powerful but contained rocket launch sound; a tight whooshing as the missile streaks forward; subtle HUD blips as drones disappear.
+- Music: Add a slightly rising motif that peaks lightly at the moment drones vanish, then quickly settles.
+- Narration still in the same line ("— shoulder, fire, forget.") with the emphasis on "forget" lining up close to when the drones blink out.
+
+SHOT 6 — TACTICAL GRID, DEFENSE ACTIVATED (7.0-9.0s):
+Visuals:
+- Cut back to the tactical map in top-down view at a medium scale showing the convoy and boat again.
+- The red-orange drone icons that previously surrounded the assets are now gone or fading, retreating off-screen.
+- Around each blue convoy and boat icon, a crisp electric-cyan circular halo appears, representing an active defensive bubble. The halos are slightly animated: a quick outward pulse when they form, then a stable glow.
+- A small Perseus tube icon appears next to each blue asset icon, symbolizing that each unit is armed with Perseus.
+- A cyan ripple effect runs along the road and coastal routes, activating more vehicles and boats farther away, each gaining its own cyan halo.
+
+Camera:
+- Begin at a similar zoom level as the earlier tactical shots, then smoothly zoom out to reveal more assets along multiple roads and waterways, all being lit up with protective halos.
+
+Lighting and color:
+- Dark navy background with brighter cyan halos. The overall palette feels calmer now: fewer red elements, more cool cyans and blues signaling controlled dominance.
+
+Audio:
+- SFX: Soft, satisfying HUD activation chimes as halos appear. Very quiet, subtle pings as additional units light up.
+- Music: Tension eases. Reduce dissonant elements, leaving a confident, steady pulse.
+- Narration transitions to the final line: "Now every asset carries its own drone shield in a tube."
+
+Text overlay:
+- Small cyan label near the convoy: "Unit-level counter-drone coverage" appears briefly, then fades.
+
+SHOT 7 — STRATEGIC WIDE + BRAND LOCKUP (9.0-12.0s):
+Visuals:
+- Continue zooming out to a wider strategic top-down view, showing a larger portion of the operational map: multiple ground routes and waterways populated with many blue asset icons (trucks, MRAPs, patrol boats). Every asset has an overlapping cyan defense bubble.
+- There are no red drone icons remaining.
+- As the camera settles, subtly dim the gridlines and icons slightly to allow branding to stand out.
+- In the center or lower-third of the frame, fade in the Perseus Defense logo in white with a subtle cyan accent.
+- Under the logo, display the tagline in a clean, modern white font: "A drone shield in a tube for every truck, boat, and convoy." Below that, smaller text: "Low-cost, man-portable counter-UAS missiles for DoD and DHS."
+
+Camera:
+- Controlled pull-back finishing in a stable, slightly drifting wide view. Very slow lateral drift to keep the frame from feeling static.
+
+Lighting and color:
+- Maintain the dark navy background and cyan halos, but apply a gentle vignette around the edges so the logo and tagline sit in a subtly brighter center.
+
+Audio:
+- Music: Resolve into a steady, confident final chord or sustained tone with a light pulsing beat, then hold through 12.0s.
+- SFX: Soft ambient UI hum only.
+- Narration over this shot: "Perseus Defense — scalable counter-UAS for every truck, boat, and convoy." Ensure the brand name "Perseus Defense" is clearly enunciated and slightly emphasized.
+
+End frame:
+- Hold the logo and tagline clearly readable until exactly 12.0 seconds with no abrupt cuts or fades before the end.
+
+Overall pacing:
+- Keep camera moves smooth, deliberate, and militarily precise. Avoid jittery or overly dramatic motions. Maintain clarity and silhouette recognition of the trucks, boats, drones, and the Perseus launcher at all times, tailored for social media viewing at small sizes.
+
+Ensure the entire video duration is exactly 12 seconds and formatted for 16:9 landscape.
