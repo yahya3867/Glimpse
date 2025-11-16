@@ -88,7 +88,15 @@ export function Hero() {
             Your product deserves more than words
             <br />
             <span className="bg-gradient-to-r from-white via-white/90 to-white/70 bg-clip-text text-transparent">
-              — it deserves <span className="italic text-yellow-500">Glimpse</span>
+              — it deserves {" "}
+              <motion.span 
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ duration: 0.8, delay: 1.0 }}
+                className="italic text-yellow-500"
+              >
+                Glimpse
+              </motion.span>
             </span>
           </motion.h1>
 
