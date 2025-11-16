@@ -2,12 +2,14 @@
 
 import { Button } from "@/components/ui/button";
 import { GlowBackground } from "@/components/glow-background";
-import { Play } from "lucide-react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { useRef } from "react";
+import { useRef, useState } from "react";
 
 export function Hero() {
   const sectionRef = useRef<HTMLElement>(null);
+  const [currentVideo, setCurrentVideo] = useState(0);
+  
   const { scrollYProgress } = useScroll({
     target: sectionRef,
     offset: ["start start", "end start"],
@@ -16,6 +18,30 @@ export function Hero() {
   const opacity = useTransform(scrollYProgress, [0, 0.5], [1, 0]);
   const scale = useTransform(scrollYProgress, [0, 0.5], [1, 0.95]);
   const y = useTransform(scrollYProgress, [0, 1], [0, 100]);
+
+  // Add your video URLs and corresponding inputs here
+  const videos = [
+    {
+      url: "https://www.youtube.com/embed/WX4XcIrTjzk",
+      input: "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies."
+    },
+    {
+      url: "https://www.youtube.com/embed/2vEJnC9mAxI",
+      input: "Relaw is an AI-powered legal operations platform that automates intake, drafting, notes, and document generation so attorneys save 10+ hours every week"
+    },
+    {
+      url: "https://www.youtube.com/embed/OROm-M21xW8",
+      input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
+    },
+  ];
+
+  const nextVideo = () => {
+    setCurrentVideo((prev) => (prev + 1) % videos.length);
+  };
+
+  const prevVideo = () => {
+    setCurrentVideo((prev) => (prev - 1 + videos.length) % videos.length);
+  };
 
   return (
     <section
@@ -83,7 +109,7 @@ export function Hero() {
                       Input:
                     </div>
                     <div className="bg-background/50 border border-border/40 rounded-lg p-4 font-mono text-sm">
-                      "API analytics that shows you why users churn"
+                      {videos[currentVideo].input}
                     </div>
                   </div>
                   <div className="flex items-center justify-center py-2">
@@ -93,8 +119,54 @@ export function Hero() {
                     <div className="text-sm text-muted-foreground font-mono">
                       Output:
                     </div>
-                    <div className="aspect-video bg-gradient-to-br from-purple-500/20 via-blue-500/20 to-cyan-500/20 rounded-lg flex items-center justify-center border border-border/40">
-                      <Play className="h-12 w-12 text-white/50" />
+                    <div className="relative aspect-video bg-gradient-to-br from-purple-500/20 via-blue-500/20 to-cyan-500/20 rounded-lg overflow-hidden border border-border/40">
+                      {/* Video Iframe */}
+                      <iframe
+                        key={currentVideo}
+                        src={videos[currentVideo].url}
+                        className="absolute inset-0 w-full h-full"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                      />
+
+                      {/* Navigation Controls */}
+                      {videos.length > 1 && (
+                        <>
+                          {/* Previous Button */}
+                          <button
+                            onClick={prevVideo}
+                            className="absolute left-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white rounded-full p-2 transition-all z-10"
+                            aria-label="Previous video"
+                          >
+                            <ChevronLeft className="h-6 w-6" />
+                          </button>
+
+                          {/* Next Button */}
+                          <button
+                            onClick={nextVideo}
+                            className="absolute right-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/70 text-white rounded-full p-2 transition-all z-10"
+                            aria-label="Next video"
+                          >
+                            <ChevronRight className="h-6 w-6" />
+                          </button>
+
+                          {/* Dot Indicators */}
+                          <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2 z-10">
+                            {videos.map((_, index) => (
+                              <button
+                                key={index}
+                                onClick={() => setCurrentVideo(index)}
+                                className={`h-2 rounded-full transition-all ${
+                                  index === currentVideo
+                                    ? "bg-white w-6"
+                                    : "bg-white/50 hover:bg-white/70 w-2"
+                                }`}
+                                aria-label={`Go to video ${index + 1}`}
+                              />
+                            ))}
+                          </div>
+                        </>
+                      )}
                     </div>
                   </div>
                 </div>
