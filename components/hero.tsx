@@ -41,6 +41,14 @@ export function Hero() {
       url: "https://www.youtube.com/embed/OROm-M21xW8",
       input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
     },
+    {
+      url: "https://www.youtube.com/embed/q5hLowOg8gM",
+      input: "Wardstone is a space defense-tech company developing next-generation capabilities to protect the United States and its allies from missiles and other space-based threats."
+    },
+    {
+      url: "https://www.youtube.com/embed/e3Wig1r50Sg",
+      input: "FridgeChef turns whatever’s in your kitchen into ready-to-cook recipes with a quick point-and-scan."
+    },
   ];
 
   const nextVideo = () => {
