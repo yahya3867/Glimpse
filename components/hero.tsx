@@ -53,6 +53,10 @@ export function Hero() {
       url: "https://www.youtube.com/embed/yknpdmmlTlw",
       input: "Blank Bio builds foundation models that understand RNA to accelerate drug discovery, powering everything from mRNA design to smarter clinical trials."
     },
+    {
+      url: "https://www.youtube.com/embed/OROm-M21xW8",
+      input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
+    },
   ];
 
   const nextVideo = () => {
