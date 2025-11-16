@@ -34,20 +34,28 @@ export function Hero() {
       input: "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies."
     },
     {
-      url: "https://www.youtube.com/embed/2vEJnC9mAxI",
-      input: "Relaw is an AI-powered legal operations platform that automates intake, drafting, notes, and document generation so attorneys save 10+ hours every week"
+      url: "https://www.youtube.com/embed/UZ7xzAkZNOQ",
+      input:"CareSwift is a real-time AI scribe that helps ambulance crews create fast, accurate, insurance-ready reports with no errors."
     },
     {
-      url: "https://www.youtube.com/embed/OROm-M21xW8",
-      input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
+      url: "https://www.youtube.com/embed/e3Wig1r50Sg",
+      input:"FridgeChef turns whatever's in your kitchen into ready-to-cook recipes with a quick point-and-scan."
     },
     {
       url: "https://www.youtube.com/embed/q5hLowOg8gM",
       input: "Wardstone is a space defense-tech company developing next-generation capabilities to protect the United States and its allies from missiles and other space-based threats."
     },
     {
-      url: "https://www.youtube.com/embed/e3Wig1r50Sg",
-      input: "FridgeChef turns whatever’s in your kitchen into ready-to-cook recipes with a quick point-and-scan."
+      url: "https://www.youtube.com/embed/2vEJnC9mAxI",
+      input: "Relaw is an AI-powered legal operations platform that automates intake, drafting, notes, and document generation so attorneys save 10+ hours every week"
+    },
+    {
+      url: "https://www.youtube.com/embed/yknpdmmlTlw",
+      input: "Blank Bio builds foundation models that understand RNA to accelerate drug discovery, powering everything from mRNA design to smarter clinical trials."
+    },
+    {
+      url: "https://www.youtube.com/embed/OROm-M21xW8",
+      input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
     },
   ];
 
