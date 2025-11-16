@@ -33,14 +33,6 @@ export function Hero() {
       url: "https://www.youtube.com/embed/OROm-M21xW8",
       input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
     },
-    {
-      url: "https://www.youtube.com/embed/q5hLowOg8gM",
-      input: "Wardstone is a space defense-tech company developing next-generation capabilities to protect the United States and its allies from missiles and other space-based threats."
-    },
-    {
-      url: "https://www.youtube.com/embed/e3Wig1r50Sg",
-      input: "FridgeChef turns whatever’s in your kitchen into ready-to-cook recipes with a quick point-and-scan."
-    },
   ];
 
   const nextVideo = () => {
@@ -58,10 +50,7 @@ export function Hero() {
     >
       <GlowBackground intensity="strong" position="top" className="top-20" parallax={true} parallaxSpeed={0.3} />
 
-      <motion.div
-        style={{ opacity, scale, y }}
-        className="container max-w-7xl 3xl:max-w-[1600px] mx-auto text-center relative z-10"
-      >
+      <div className="container max-w-7xl 3xl:max-w-[1600px] mx-auto text-center relative z-10">
         <div className="space-y-8">
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
@@ -185,7 +174,7 @@ export function Hero() {
             </div>
           </div>
         </div>
-      </motion.div>
+      </div>
     </section>
   );
 }
