@@ -22,7 +22,7 @@ export async function POST(request: NextRequest) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": `Bearer ${process.env.RESEND_API_KEY}`,
+        "Authorization": `Bearer re_Z4D25U3F_LMUEMFm4RyVrFraeG8SpPcvU`,
       },
       body: JSON.stringify({
         from: "onboarding@resend.dev", // Using Resend's test domain
