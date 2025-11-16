@@ -8,6 +8,7 @@ import { useRef, useState } from "react";
 
 export function Hero() {
   const sectionRef = useRef<HTMLElement>(null);
+  const videoSectionRef = useRef<HTMLDivElement>(null);
   const [currentVideo, setCurrentVideo] = useState(0);
   
   const { scrollYProgress } = useScroll({
@@ -15,9 +16,16 @@ export function Hero() {
     offset: ["start start", "end start"],
   });
 
+  const { scrollYProgress: videoScrollProgress } = useScroll({
+    target: videoSectionRef,
+    offset: ["start end", "end start"],
+  });
+
   const opacity = useTransform(scrollYProgress, [0, 0.5], [1, 0]);
   const scale = useTransform(scrollYProgress, [0, 0.5], [1, 0.95]);
   const y = useTransform(scrollYProgress, [0, 1], [0, 100]);
+  
+  const videoY = useTransform(videoScrollProgress, [0, 1], [50, -50]);
 
   // Add your video URLs and corresponding inputs here
   const videos = [
@@ -50,7 +58,10 @@ export function Hero() {
     >
       <GlowBackground intensity="strong" position="top" className="top-20" parallax={true} parallaxSpeed={0.3} />
 
-      <div className="container max-w-7xl 3xl:max-w-[1600px] mx-auto text-center relative z-10">
+      <motion.div
+        style={{ opacity, scale, y }}
+        className="container max-w-7xl 3xl:max-w-[1600px] mx-auto text-center relative z-10"
+      >
         <div className="space-y-8">
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
@@ -61,7 +72,7 @@ export function Hero() {
             Your product deserves more than words
             <br />
             <span className="bg-gradient-to-r from-white via-white/90 to-white/70 bg-clip-text text-transparent">
-              — it deserves <span className="italic">Glimpse</span>
+              — it deserves <span className="italic bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">Glimpse</span>
             </span>
           </motion.h1>
 
@@ -87,7 +98,11 @@ export function Hero() {
             </Button>
           </motion.div>
 
-          <div className="pt-12">
+          <motion.div 
+            ref={videoSectionRef}
+            style={{ y: videoY }}
+            className="pt-12"
+          >
             <div className="relative mx-auto max-w-4xl 3xl:max-w-6xl">
               <div className="absolute inset-0 bg-gradient-to-r from-white/10 via-white/5 to-white/10 blur-3xl rounded-full" />
               <div className="relative bg-gradient-to-br from-muted/30 to-muted/10 backdrop-blur-sm border border-border/40 rounded-2xl p-8 md:p-12">
@@ -172,9 +187,9 @@ export function Hero() {
                 </div>
               </div>
             </div>
-          </div>
+          </motion.div>
         </div>
-      </div>
+      </motion.div>
     </section>
   );
 }
