@@ -53,10 +53,6 @@ export function Hero() {
       url: "https://www.youtube.com/embed/yknpdmmlTlw",
       input: "Blank Bio builds foundation models that understand RNA to accelerate drug discovery, powering everything from mRNA design to smarter clinical trials."
     },
-    {
-      url: "https://www.youtube.com/embed/OROm-M21xW8",
-      input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
-    },
   ];
 
   const nextVideo = () => {
@@ -87,23 +83,9 @@ export function Hero() {
           >
             Your product deserves more than words
             <br />
-              <motion.span 
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ duration: 0.8, delay: 0.7 }}
-                className="bg-gradient-to-r from-white via-white/90 to-white/70 bg-clip-text text-transparent"
-              >
-                — it deserves {" "}
-              </motion.span>
-            
-              <motion.span 
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ duration: 0.8, delay: 1.0 }}
-                className="italic text-yellow-500"
-              >
-                Glimpse
-              </motion.span>
+            <span className="bg-gradient-to-r from-white via-white/90 to-white/70 bg-clip-text text-transparent">
+              — it deserves <span className="italic text-yellow-500">Glimpse</span>
+            </span>
           </motion.h1>
 
           <motion.p
