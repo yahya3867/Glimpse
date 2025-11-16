@@ -80,7 +80,7 @@ export function Hero() {
             Your product deserves more than words
             <br />
             <span className="bg-gradient-to-r from-white via-white/90 to-white/70 bg-clip-text text-transparent">
-              — it deserves <span className="italic bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">Glimpse</span>
+              — it deserves <span className="italic text-yellow-500">Glimpse</span>
             </span>
           </motion.h1>
 
