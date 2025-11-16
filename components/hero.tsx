@@ -33,6 +33,14 @@ export function Hero() {
       url: "https://www.youtube.com/embed/OROm-M21xW8",
       input: "Automax.ai uses LiDAR and AI agents to generate fast, transparent real-estate appraisals in under 20 minutes"
     },
+    {
+      url: "https://www.youtube.com/embed/q5hLowOg8gM",
+      input: "Wardstone is a space defense-tech company developing next-generation capabilities to protect the United States and its allies from missiles and other space-based threats."
+    },
+    {
+      url: "https://www.youtube.com/embed/e3Wig1r50Sg",
+      input: "FridgeChef turns whatever’s in your kitchen into ready-to-cook recipes with a quick point-and-scan."
+    },
   ];
 
   const nextVideo = () => {
@@ -90,12 +98,7 @@ export function Hero() {
             </Button>
           </motion.div>
 
-          <motion.div
-            initial={{ opacity: 0, y: 40 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 1, delay: 0.8 }}
-            className="pt-12"
-          >
+          <div className="pt-12">
             <div className="relative mx-auto max-w-4xl 3xl:max-w-6xl">
               <div className="absolute inset-0 bg-gradient-to-r from-white/10 via-white/5 to-white/10 blur-3xl rounded-full" />
               <div className="relative bg-gradient-to-br from-muted/30 to-muted/10 backdrop-blur-sm border border-border/40 rounded-2xl p-8 md:p-12">
@@ -119,7 +122,15 @@ export function Hero() {
                     <div className="text-sm text-muted-foreground font-mono">
                       Output:
                     </div>
-                    <div className="relative aspect-video bg-gradient-to-br from-purple-500/20 via-blue-500/20 to-cyan-500/20 rounded-lg overflow-hidden border border-border/40">
+                    <div className="relative aspect-video bg-gradient-to-br from-purple-500/20 via-blue-500/20 to-cyan-500/20 rounded-lg overflow-hidden border border-border/40 group">
+                      {/* Overlay to prevent scroll freeze - click to enable video interaction */}
+                      <div 
+                        className="absolute inset-0 z-[5] cursor-pointer group-[.video-active]:pointer-events-none" 
+                        onClick={(e) => {
+                          e.currentTarget.parentElement?.classList.add('video-active');
+                        }}
+                      />
+                      
                       {/* Video Iframe */}
                       <iframe
                         key={currentVideo}
@@ -172,7 +183,7 @@ export function Hero() {
                 </div>
               </div>
             </div>
-          </motion.div>
+          </div>
         </div>
       </motion.div>
     </section>
